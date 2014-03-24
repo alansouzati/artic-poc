@@ -1,0 +1,17 @@
+Copyright 0 0 medium false false false false false false false false false false false false false OTHER
+is 1 0 few false false false false false false false false false false false false false OTHER
+held 2 0 few false false false false false false false false false false false false false OTHER
+by 3 0 few false false false false false false false false false false false false false OTHER
+the 4 0 few false false false false false false false false false false false false false OTHER
+author/owner(s). 5 0 many false false false false false false false false false false false false false OTHER
+WWW 0 0 few false true false false false false false false false false false false false CONFERENCE_NAME
+2011, 1 0 medium false false false false true false false false false true false false false CONFERENCE_YEAR
+March 2 0 medium true false false false false false false false false false false false false CONFERENCE_LOCATION
+28–April 3 0 medium false false false false false false false false false false false false false CONFERENCE_LOCATION
+1, 4 0 few false false false false false false false false false true false false false CONFERENCE_LOCATION
+2011, 5 0 medium false false false false true false false false false true false false false CONFERENCE_YEAR
+Hyderabad, 6 0 many false false false false false false false false false false false false false CONFERENCE_LOCATION
+India. 7 0 medium false false false true false false false false false false true false false CONFERENCE_LOCATION
+ACM 0 1 few false true false false false false false true false false false false false PUBLISHER
+978-1-4503-0637-9/11/03. 1 1 many false false false false false false true false false true false false false ISBN
+145 0 0 few false false false false false false false false false true false false false OTHER

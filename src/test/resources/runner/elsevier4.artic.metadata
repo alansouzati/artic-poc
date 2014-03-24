@@ -1,0 +1,40 @@
+{
+  "title": "Predictions of thermodynamic properties of energetic materials using COSMO-RS",
+  "authors": [
+    {
+      "name": "Sandra Roy"
+    },
+    {
+      "name": "Mounir Jaidann"
+    },
+    {
+      "name": "Sophie Ringuette"
+    },
+    {
+      "name": "Louis-Simon Lussier"
+    },
+    {
+      "name": "Hakima Abou-Rachid",
+      "email": "hakima.abou-rachid@drdc-rddc.gc.ca"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Procedia Computer Science",
+      "page": "123–1211",
+      "volume": "1"
+    },
+    {
+      "name": "International Conference on Computational Science, ICCS",
+      "year": "2010"
+    },
+    {
+      "publisher": "Elsevier",
+      "year": "2012",
+      "issn": "1877-0509",
+      "doi": "doi:10.1016/j.procs.2010.04.134"
+    }
+  ],
+  "affiliation": "Defence Research and Development Canada, 2459 Pie-XI Blvd North, Quebec (QC) G3J 1X5, Canada",
+  "links": "www.sciencedirect.com w wwelseviercom/locate/pro c e dia"
+}

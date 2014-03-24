@@ -1,0 +1,40 @@
+{
+    "title": "Coupled Semi-Supervised Learning for Information Extraction",
+    "authors": [
+        {
+            "name": "Andrew Carlson",
+			"affiliation": "Schoool of Computer Science Carnegie Mellon University Pittsburgh, PA 15213",
+            "email": "acarlson@cs.cmu.edu"
+        },
+		{
+            "name": "Justin Betteridge",
+			"affiliation": "Schoool of Computer Science Carnegie Mellon University Pittsburgh, PA 15213",
+            "email": "jbetter@cs.cmu.edu"
+        },
+		{
+            "name": "Richard C. Wang",
+			"affiliation": "Schoool of Computer Science Carnegie Mellon University Pittsburgh, PA 15213",
+            "email": "rcwang@cs.cmu.edu"
+        },
+		{
+            "name": "Estevam R. Hruschka Jr.",
+			"affiliation": "Federal University of Sao Carlos Sao Carlos, SP - Brazil",
+            "email": "estevam@dc.ufscar.br"
+        },
+		{
+            "name": "Tom M. Mitchell",
+			"affiliation": "Schoool of Computer Science Carnegie Mellon University Pittsburgh, PA 15213",
+            "email": "tom.mitchell@cs.cmu.edu"
+        }		
+    ],
+    "venues": [
+        {
+            "name": "WSDM’10",
+            "publisher": "ACM",
+            "date": "February 4–6",
+            "location": "New York City, New York, USA",
+            "year": "2010",
+            "isbn": "978-1-60558-889-6/10/02"
+        }
+    ]
+}

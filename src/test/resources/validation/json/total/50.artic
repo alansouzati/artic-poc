@@ -1,0 +1,24 @@
+{
+    "title": "Mining and Summarizing Customer Reviews",
+    "authors": [
+        {
+            "name": "Minqing Hu",
+            "email": "mhu1@cs.uic.edu"
+        },
+        {
+            "name": "Bing Liu",
+            "email": "liub@cs.uic.edu"
+        }
+    ],
+    "venues": [
+        {
+            "name": "KDD’04",
+            "publisher": "ACM",
+            "date": "August 22–25",
+            "year": "2004",
+            "location": "Seattle, Washington, USA.",
+            "isbn": "1-58113-888-1/04/0008"
+        }
+    ],
+    "affiliation": "Department of Computer Science University of Illinois at Chicago 851 South Morgan Street Chicago, IL 60607-7053"
+}

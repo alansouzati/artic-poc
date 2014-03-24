@@ -1,0 +1,40 @@
+{
+    "title": "Crawling Deep Web Entity Pages",
+    "authors": [
+        {
+            "name": "Yeye He",
+            "email": "heyeye@cs.wisc.edu",
+            "affiliation": "Univ. of Wisconsin-Madison Madison, WI 53706"
+        },
+        {
+            "name": "Dong Xin",
+            "email": "dongxin@google.com",
+            "affiliation": "Google Inc. Mountain View, CA, 94043"
+        },
+        {
+            "name": "Venkatesh Ganti",
+            "email": "vganti@google.com",
+            "affiliation": "Google Inc. Mountain View, CA, 94043"
+        },
+        {
+            "name": "Sriram Rajaraman",
+            "email": "sriramr@google.com",
+            "affiliation": "Google Inc. Mountain View, CA, 94043"
+        },
+        {
+            "name": "Nirav Shah",
+            "email": "nshah@google.com",
+            "affiliation": "Google Inc. Mountain View, CA, 94043"
+        }
+    ],
+    "venues": [
+        {
+            "name": "WSDM’13",
+            "publisher": "ACM",
+            "date": "February 4–8",
+            "year": "2013",
+            "location": "Rome, Italy",
+            "isbn": "978-1-4503-1869-3/13/02"
+        }
+    ]
+}

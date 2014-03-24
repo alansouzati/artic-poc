@@ -1,0 +1,32 @@
+{
+  "title": "Sesame: Informing User Security Decisions System Visualization",
+  "authors": [
+    {
+      "name": "Jennifer Stoll",
+      "email": "jstoll@gatech.edu"
+    },
+    {
+      "name": "W. Keith"
+    },
+    {
+      "name": "Edwards"
+    },
+    {
+      "name": "Kyle Spafford",
+      "email": "kyle@cc.gatech.edu"
+    },
+    {
+      "name": "Craig Tashmam",
+      "email": "craig@cc.gatech.edu"
+    }
+  ],
+  "venues": [
+    {
+      "name": "CHI",
+      "publisher": "ACM",
+      "year": "2008",
+      "location": "Florence, Italy",
+      "isbn": "978-1-60558-01"
+    }
+  ]
+}

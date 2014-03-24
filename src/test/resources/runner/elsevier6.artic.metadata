@@ -1,0 +1,33 @@
+{
+  "title": "SEAD: secure efficient distance vector routing for mobile wireless ad hoc networks",
+  "authors": [
+    {
+      "name": "Yih-Chun Hu",
+      "email": "yihchun@cs.cmu.edu"
+    },
+    {
+      "name": "David B. Johnson",
+      "email": "dbj@cmu.edu"
+    },
+    {
+      "name": "Adrian Perrig",
+      "email": "perrig@cmu.edu"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Ad Hoc Networks",
+      "year": "2003",
+      "page": "175–192",
+      "volume": "1"
+    },
+    {
+      "publisher": "Elsevier",
+      "year": "2003",
+      "issn": "1570-8705",
+      "doi": "doi:10.1016/S1570-8705(03)00019-2"
+    }
+  ],
+  "affiliation": "a Carnegie Mellon University, Pittsburgh, PA 15213, USA b Rice University, Houston, TX 77005, USA",
+  "links": "www.elsevier.com/locate/adhoc"
+}

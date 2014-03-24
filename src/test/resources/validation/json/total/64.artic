@@ -1,0 +1,33 @@
+{
+    "title": "Structured Databases on the Web: Observations and Implications",
+    "authors": [
+        {
+            "name": "Kevin Chen-Chuan Chang",
+            "email": "kcchang@cs.uiuc.edu"
+        },
+        {
+            "name": "Bin He",
+            "email": "binhe@cs.uiuc.edu"
+        },
+        {
+            "name": "Chengkai Li",
+            "email": "cli@cs.uiuc.edu"
+        },
+        {
+            "name": "Mitesh Patel",
+            "email": "mppatel2@cs.uiuc.edu"
+        },
+        {
+            "name": "Zhen Zhang",
+            "email": "zhang2@cs.uiuc.edu"
+        }
+    ],
+    "venues": [
+        {
+            "name": "SIGMOD Record",
+            "date": "September",
+            "year": "2004"
+        }
+    ],
+    "affiliation": "Computer Science Department University of Illinois at Urbana-Champaign"
+}

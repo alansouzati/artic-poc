@@ -1,0 +1,38 @@
+#unigram
+# WORD
+#U0:%x[0,0]
+# position withn the line
+U1:%x[0,1]
+# line identifier
+U2:%x[0,2]
+# characterSize
+U3:%x[0,3]
+# month
+U4:%x[0,4]
+# conference
+U5:%x[0,5]
+# days
+U6:%x[0,6]
+# country
+U7:%x[0,7]
+# year
+U8:%x[0,8]
+# website
+U9:%x[0,9]
+# isbn
+U10:%x[0,10]
+# publisher
+U11:%x[0,11]
+# email
+U12:%x[0,12]
+# numberOnly
+U13:%x[0,13]
+# possibleAffiliation
+U14:%x[0,14]
+# issn
+U15:%x[0,15]
+# doi
+U16:%x[0,16]
+
+#Automatically create all bigram features
+B

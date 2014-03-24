@@ -1,0 +1,23 @@
+{
+  "title": "Topological Field Parsing of German",
+  "authors": [
+    {
+      "name": "Jackie Chi Kit Cheung",
+      "email": "jcheung@cs.toronto.edu",
+      "affiliation": "Department of Computer Science University of Toronto Toronto, ON, M5S 3G4, Canada"
+    },
+    {
+      "name": "Gerald Penn",
+      "email": "gpenn@cs.toronto.edu",
+      "affiliation": "Department of Computer Science University of Toronto Toronto, ON, M5S 3G4, Canada"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Proceedings of the 47th Annual Meeting of the ACL and the 4th IJCNLP of the AFNLP",
+      "date": "2-7 August",
+      "year": "2009",
+      "location": "Suntec, Singapore"
+    }
+  ]
+}

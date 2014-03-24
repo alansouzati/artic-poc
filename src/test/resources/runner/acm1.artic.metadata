@@ -1,0 +1,28 @@
+{
+  "title": "A Model for High School Computer Science Education: The Four Key Elements that Make It!",
+  "authors": [
+    {
+      "name": "Orit Hazzan",
+      "email": "oritha@tx.technion.ac.il",
+      "affiliation": "Dept. of Education in Technology \u0026 Science Technion – Israel Institute of Technology"
+    },
+    {
+      "name": "Judith Gal-Ezer",
+      "email": "galezer@cs.openu.ac.il",
+      "affiliation": "Computer Science Department The Open University of Israel"
+    },
+    {
+      "name": "Lenore Blum",
+      "email": "lblum@cs.cmu.edu",
+      "affiliation": "Computer Science Department Carnegie Mellon University"
+    }
+  ],
+  "venues": [{
+    "name": "SIGCSE’08",
+    "publisher": "ACM",
+    "date": "March 12–15",
+    "year": "2008",
+    "location": "Portland, Oregon, USA.",
+    "isbn": "978-1-59593-947-0/08/0003"
+  }]
+}

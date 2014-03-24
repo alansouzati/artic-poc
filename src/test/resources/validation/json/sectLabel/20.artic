@@ -1,0 +1,32 @@
+{
+  "title": "A Computational Approach to Reflective Meta-Reasoning about Languages with Bindings *",
+  "authors": [
+    {
+      "name": "Aleksey Nogin",
+      "email": "nogin@cs.caltech.edu"
+    },
+    {
+      "name": "Alexei Kopylov",
+      "email": "kopylov@cs.caltech.edu"
+    },
+    {
+      "name": "Xin Yu",
+      "email": "xiny@cs.caltech.edu"
+    },
+    {
+      "name": "Jason Hickey",
+      "email": "jyh@cs.caltech.edu"
+    }
+  ],
+  "venues": [
+    {
+      "name": "MERLIN’05",
+	  "publisher": "ACM",
+      "date": "September 30",
+      "year": "2005",
+      "location": "Tallinn, Estonia",
+	  "isbn": "1-59593-072-8/05/0009"
+    }
+  ],
+  "affiliation": "Department of Computer Science California Institute of Technology M/C 256-80, Pasadena, CA 91125"
+}

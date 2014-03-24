@@ -1,0 +1,32 @@
+{
+    "title": "Resource Allocation for Real Time Services Using Cooperative Game Theory and a Virtual Token Mechanism in LTE Networks",
+    "authors": [
+        {
+            "name": "Mauricio Iturralde",
+            "email": "mauricio.iturralde@enseeiht.fr"
+        },
+        {
+            "name": "Anne Wei",
+            "email": "anne.wei@cnam.fr"
+        },
+        {
+            "name": "Tara Ali Yahiya",
+            "email": "tara.ali-yahiya@u-psud.fr"
+        },
+        {
+            "name": "Andr�-Luc Beylot",
+            "email": "beylot@enseeiht.fr"
+        }
+    ],
+    "venues": [
+         {
+           "name": "The 9th Annual IEEE Consumer Communications and Networking Conference - Wireless Consumer Communication and Networking"
+         },
+         {
+           "publisher": "IEEE",
+           "year": "2012",
+           "isbn": "978-1-4244-8790-5/12"
+         }
+    ],
+	"affiliation": "Universit� de Toulouse, IRIT/ENSEEIHT CNAM, Laboratoire C�dric Universit� Paris Sud 11, LRI"
+}

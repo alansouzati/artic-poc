@@ -1,0 +1,25 @@
+{
+    "title": "Expressing Computer Science Concepts Through Kodu Game Lab",
+    "authors": [
+        {
+            "name": "Kathryn T. Stolee",
+			"affiliation": "Department of Computer Science and Engineering University of Nebraska–Lincoln Lincoln, NE, U.S.A.",
+            "email": "kstolee@cse.unl.edu"
+        },
+		{
+            "name": "Teale Fristoe",
+			"affiliation": "Expressive Intelligence Studio University of California, Santa Cruz Santa Cruz, CA, U.S.A.",
+            "email": "teale@soe.ucsc.edu"
+        }
+    ],
+    "venues": [
+        {
+            "name": "SIGCSE’11",
+            "publisher": "ACM",
+            "date": "March 9–12",
+            "location": "Dallas, Texas, USA",
+            "year": "2011",
+            "isbn": "978-1-4503-0500-6/11/03"
+        }
+    ]
+}

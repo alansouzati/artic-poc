@@ -1,0 +1,35 @@
+{
+  "title": "GraphLab: A New Framework For Parallel Machine Learning",
+  "authors": [
+    {
+      "name": "Yucheng Low",
+      "email": "ylow@cs.cmu.edu",
+      "affiliation": "Carnegie Mellon University"
+    },
+    {
+      "name": "Danny Bickson",
+      "email": "bickson@cs.cmu.edu",
+      "affiliation": "Carnegie Mellon University"
+    },
+    {
+      "name": "Joseph Gonzalez",
+      "email": "jegonzal@cs.cmu.edu",
+      "affiliation": "Carnegie Mellon University"
+    },
+    {
+      "name": "Carlos Guestrin",
+      "email": "guestrin@cs.cmu.edu",
+      "affiliation": "Carnegie Mellon University"
+    },
+    {
+      "name": "Aapo Kyrola",
+      "email": "akyrola@cs.cmu.edu",
+      "affiliation": "Carnegie Mellon University"
+    },
+    {
+      "name": "Joseph M. Hellerstein",
+      "email": "hellerstein@cs.berkeley.edu",
+      "affiliation": "UC Berkeley"
+    }
+  ]
+}

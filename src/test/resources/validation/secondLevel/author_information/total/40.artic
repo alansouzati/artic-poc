@@ -1,0 +1,16 @@
+Stephen 0 0 medium false false false new medium false AUTHOR
+A. 1 0 few false false false same medium false AUTHOR
+Boxwell, 2 0 medium false false false same medium false AUTHOR
+Dennis 3 0 medium false false false same medium false AUTHOR
+Mehay, 4 0 medium false false false same medium false AUTHOR
+and 5 0 few false false false same medium false AUTHOR
+Chris 6 0 medium false false false same medium false AUTHOR
+Brew 7 0 few false false false same medium false AUTHOR
+Department 0 1 many false true false same medium false AFFILIATION
+of 1 1 few false false false same medium false AFFILIATION
+Linguistics 2 1 many false false false same medium false AFFILIATION
+The 0 2 few false false false same medium false AFFILIATION
+Ohio 1 2 few false false false same medium false AFFILIATION
+State 2 2 medium false true false same medium false AFFILIATION
+University 3 2 many false true false same medium false AFFILIATION
+{boxwe11,mehay,cbrew}@1ing.ohio-state.edu 0 3 many true false false same medium false EMAIL

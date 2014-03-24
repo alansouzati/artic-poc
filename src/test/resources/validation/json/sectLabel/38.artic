@@ -1,0 +1,30 @@
+{
+  "title": "Reinforcement Learning for Mapping Instructions to Actions",
+  "authors": [
+    {
+      "name": "S.R.K. Branavan",
+      "email": "branavan@csail.mit.edu"
+    },
+    {
+      "name": "Harr Chen",
+      "email": "harr@csail.mit.edu"
+    },
+    {
+      "name": "Luke S. Zettlemoyer",
+      "email": "lsz@csail.mit.edu"
+    },
+    {
+      "name": "Regina Barzilay",
+      "email": "regina@csail.mit.edu"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Proceedings of the 47th Annual Meeting of the ACL and the 4th IJCNLP of the AFNLP",
+      "date": "2-7 August",
+      "year": "2009",
+      "location": "Suntec, Singapore"
+    }
+  ],
+  "affiliation": "Computer Science and Artificial Intelligence Laboratory Massachusetts Institute of Technology"
+}

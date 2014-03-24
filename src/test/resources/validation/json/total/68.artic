@@ -1,0 +1,26 @@
+{
+    "title": "Example Based Entity Search in the Web of Data",
+    "authors": [
+        {
+            "name": "Marc Bron",
+            "email": "m.m.bron@uva.nl"
+        },
+        {
+            "name": "Krisztian Balog",
+            "email": "krisztian.balog@uis.no"
+        },
+        {
+            "name": "Maarten de Rijke",
+            "email": "derijke@uva.nl"
+        }
+    ],
+    "venues": [
+        {
+            "name": "ECIR",
+            "publisher": "Springer-Verlag",
+            "location": "Berlin Heidelberg",
+            "year": "2013"
+        }
+    ],
+    "affiliation": "ISLA, University of Amsterdam, Scienc Park 904, 1098 XH Amsterdam University of Stavanger, NO-4036 Stavangerh"
+}

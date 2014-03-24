@@ -1,0 +1,24 @@
+{
+    "title": "Using Latent-Structure to Detect Objects on the Web",
+    "authors": [
+        {
+            "name": "Luciano Barbosa",
+            "email": "lbarbosa@research.att.com",
+            "affiliation": "AT&T Labs - Research"
+        },
+        {
+            "name": "Juliana Freire",
+            "email": "juliana@cs.utah.edu",
+            "affiliation": "University of Utah"
+        }
+    ],
+    "venues": [
+        {
+            "name": "WebDB",
+            "publisher": "ACM",
+            "year": "2010",
+            "location": "Indianapolis, IN USA.",
+            "isbn": "978-1-4503-0186-2/10/06"
+        }
+    ]
+}

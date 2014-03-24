@@ -1,0 +1,12 @@
+WSDM’13, 0 0 medium false true false false false false false false false false false false false CONFERENCE_NAME
+February 1 0 medium true false false false false false false false false false false false false CONFERENCE_DATE
+4–8, 2 0 few false false false false false false false false false true false false false CONFERENCE_DATE
+2013, 3 0 medium false false false false true false false false false true false false false CONFERENCE_YEAR
+Rome, 4 0 medium false false false false false false false false false false false false false CONFERENCE_LOCATION
+Italy. 5 0 medium false false false true false false false false false false true false false CONFERENCE_LOCATION
+Copyright 0 0 medium false false false false false false false false false false false false false OTHER
+2013 1 0 few false false false false true false false false false true false false false CONFERENCE_YEAR
+ACM 2 0 few false true false false false false false true false false false false false PUBLISHER
+978-1-4503-1869-3/13/02 3 0 many false false false false false false true false false true false false false ISBN
+...$10.00. 4 0 many false false false false false false false false false true false false false OTHER
+355 0 0 few false false false false false false false false false true false false false OTHER

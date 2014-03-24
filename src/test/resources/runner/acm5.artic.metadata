@@ -1,0 +1,35 @@
+{
+  "title": "Embedding Computer Science Concepts In K-12 Science Curricula",
+  "authors": [
+    {
+      "name": "Chi-Cheng Lin",
+      "email": "clin@winona.edu",
+      "affiliation": "Department of Computer Science Winona State University Winona. MN 55987"
+    },
+    {
+      "name": "Mingrui Zhang",
+      "email": "mzhang@winona.edu",
+      "affiliation": "Department of Computer Science Winona State University Winona. MN 55987"
+    },
+    {
+      "name": "Barbara Beck",
+      "email": "barbara.beck@roch.edu",
+      "affiliation": "Department of Biology Rochester Community and Technical College Rochester, MN 55904"
+    },
+    {
+      "name": "Gayle Olsen",
+      "email": "golsen@winona.edu",
+      "affiliation": "Department of Nursing Winona State University Rochester, MN 55904"
+    }
+  ],
+  "venues": [
+    {
+      "name": "SIGCSE’09",
+      "publisher": "ACM",
+      "date": "March 3–7",
+      "year": "2009",
+      "location": "Chattanooga, Tennessee, USA.",
+      "isbn": "978-1-60558-183-5/09/03"
+    }
+  ]
+}

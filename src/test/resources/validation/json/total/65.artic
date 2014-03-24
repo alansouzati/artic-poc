@@ -1,0 +1,33 @@
+{
+    "title": "Harnessing the Deep Web: Present and Future",
+    "authors": [
+        {
+            "name": "Jayant Madhavan",
+            "email": "jayant@google.com",
+            "affiliation": "Google Inc."
+        },
+        {
+            "name": "Loredana Afanasiev",
+            "email": "lafanasi@science.van.nl",
+            "affiliation": "Universiteit van Amsterdam"
+        },
+        {
+            "name": "Lyublena Antova",
+            "email": "lantova@cs.cornell.edu",
+            "affiliation": "Cornell University"
+        },
+        {
+            "name": "Alon Halevy",
+            "email": "halevy@google.com",
+            "affiliation": "Google Inc."
+        }
+    ],
+    "venues": [
+        {
+            "name": "4th Biennial Conference on Innovative Data Systems Research (CIDR)",
+            "date": "January 4-7",
+            "location": "Asilomar, California, USA.",
+            "year": "2009"
+        }
+    ]
+}

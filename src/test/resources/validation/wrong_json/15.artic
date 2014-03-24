@@ -1,0 +1,19 @@
+{
+  "title": "A Geometric Constraint Library for 3D Graphical Applications",
+  "authors": [
+    {
+      "name": "Hiroshi Hosobe",
+      "email": "hosobe@nii.ac.jp"
+    }
+  ],
+  "venues": [
+    {
+      "publisher": "ACM",
+      "date": "June 11-13",
+      "year": "2002",
+      "location": "Hawthorne, NY, USA",
+      "isbn": "1-58113-555-6/02/0600"
+    }
+  ],
+  "affiliation": "National Institute of Informatics 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan"
+}

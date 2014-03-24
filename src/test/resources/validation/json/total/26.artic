@@ -1,0 +1,35 @@
+{
+  "title": "A Two-Phase Sampling Technique for Information Extraction from Hidden Web Databases",
+  "authors": [
+    {
+      "name": "Y.L. Hedley",
+      "email": "y.hedley@coventry.ac.uk",
+      "affiliation": "School of Mathematical and Information Sciences Coventry University, Coventry CV1 5FB, UK"
+    },
+    {
+      "name": "M. Younas",
+      "email": "m.younas@coventry.ac.uk",
+      "affiliation": "School of Mathematical and Information Sciences Coventry University, Coventry CV1 5FB, UK"
+    },
+    {
+      "name": "A. James",
+      "email": "a.james@coventry.ac.uk",
+      "affiliation": "School of Mathematical and Information Sciences Coventry University, Coventry CV1 5FB, UK"
+    },
+    {
+      "name": "M. Sanderson",
+      "email": "m.sanderson@sheffield.ac.uk",
+      "affiliation": "Department of Information Studies University of Sheffield, Sheffield, S1 4DP, UK"
+    }
+  ],
+  "venues": [
+    {
+      "name": "WIDM’04",
+      "publisher": "ACM",
+      "date": "November 12–13",
+      "year": "2004",
+      "location": "Washington, DC, USA",
+      "isbn": "1-58113-978-0/04/0011"
+    }
+  ]
+}

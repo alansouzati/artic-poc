@@ -1,0 +1,15 @@
+{
+  "title": "The Tradeoffs of Large Scale Learning",
+  "authors": [
+    {
+      "name": "Leon Bottou",
+      "email": "leon@bottou.org",
+	  "affiliation": "NEC laboratories of America Princeton, NJ 08540, USA"
+    },
+    {
+      "name": "Olivier Bousquet",
+      "email": "olivier.bousquet@m4x.org",
+      "affiliation": "Google Z¨urich 8002 Zurich, Switzerland"
+    }
+  ]
+}

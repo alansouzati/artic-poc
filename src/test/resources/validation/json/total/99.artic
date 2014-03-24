@@ -1,0 +1,32 @@
+{
+    "title": "NIMBLE: A Toolkit for the Implementation of Parallel Data Mining and Machine Learning Algorithms on MapReduce",
+    "authors": [
+        {
+            "name": "Amol Ghoting",
+			"email": "aghoting@us.ibm.com"
+        },
+		{
+            "name": "Prabhanjan Kambadur",
+			"email": "pkambadu@us.ibm.com"
+        },
+		{
+            "name": "Edwin Pednault",
+			"email": "pednault@us.ibm.com"
+        },
+		{
+            "name": "Ramakrishnan Kannan",
+			"email": "ramkrish@us.ibm.com"
+        }
+    ],
+    "venues": [
+        {
+            "name": "KDD’11",
+            "publisher": "ACM",
+            "date": "August 21–24",
+            "location": "San Diego, California, USA",
+            "year": "2011",
+            "isbn": "978-1-4503-0813-7/11/08"
+        }
+    ],
+	"affiliation": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY"
+}

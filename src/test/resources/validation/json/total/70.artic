@@ -1,0 +1,30 @@
+{
+    "title": "Ad-hoc Object Ranking in the Web of Data",
+    "authors": [
+        {
+            "name": "Jeffrey Pound",
+            "email": "jpound@cs.uwaterloo.ca",
+            "affiliation": "David R. Cheriton School of Computer Science, University of Waterloo"
+        },
+        {
+            "name": "Peter Mika",
+            "email": "pmika@yahoo-inc.com",
+            "affiliation": "Yahoo Research, Barcelona, Spain"
+        },
+        {
+            "name": "Hugo Zaragoza",
+            "email": "hugoz@yahoo-inc.com",
+            "affiliation": "Yahoo Research, Barcelona, Spain"
+        }
+    ],
+    "venues": [
+        {
+            "name": "WWW",
+            "publisher": "ACM",
+            "date": "April 26–30",
+            "year": "2010",
+            "location": "Raleigh, North Carolina, USA.",
+            "isbn": "978-1-60558-799-8/10/04"
+        }
+    ]
+}

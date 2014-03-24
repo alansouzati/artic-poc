@@ -1,0 +1,45 @@
+{
+  "title": "High-performance astrophysical visualization using Splotch",
+  "authors": [
+    {
+      "name": "Zhefan Jin",
+      "affiliation": "School of Creative Technologies, University of Portsmouth, Winston Churchill Avenue, Portsmouth, United Kingdom"
+    },
+    {
+      "name": "Mel Krokos",
+      "affiliation": "School of Creative Technologies, University of Portsmouth, Winston Churchill Avenue, Portsmouth, United Kingdom"
+    },
+    {
+      "name": "Marzia Rivi",
+      "affiliation": "CINECA, Via Magnanelli 6 / 3, Casalecchio di Reno, Italy"
+    },
+    {
+      "name": "Claudio Gheller",
+      "affiliation": "CINECA, Via Magnanelli 6 / 3, Casalecchio di Reno, Italy Max-Planck-Institutf¨ur Astrophysik, Karl-Schwarzschild Strasse 1, Garching bei M¨unchen, Germany Max-Planck-Institutf¨ur Astrophysik, Karl-Schwarzschild Strasse 1, Garching bei M¨unchen, Germany"
+    },
+    {
+      "name": "Klaus Dolag",
+      "affiliation": "CINECA, Via Magnanelli 6 / 3, Casalecchio di Reno, Italy Max-Planck-Institutf¨ur Astrophysik, Karl-Schwarzschild Strasse 1, Garching bei M¨unchen, Germany Max-Planck-Institutf¨ur Astrophysik, Karl-Schwarzschild Strasse 1, Garching bei M¨unchen, Germany"
+    },
+    {
+      "name": "Martin Reinecke",
+      "affiliation": "CINECA, Via Magnanelli 6 / 3, Casalecchio di Reno, Italy Max-Planck-Institutf¨ur Astrophysik, Karl-Schwarzschild Strasse 1, Garching bei M¨unchen, Germany Max-Planck-Institutf¨ur Astrophysik, Karl-Schwarzschild Strasse 1, Garching bei M¨unchen, Germany"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Procedia Computer Science",
+      "year": "212",
+      "page": "1775–1784",
+      "volume": "1"
+    },
+    {
+      "name": "International Conference on Computational Science, ICCS",
+      "year": "2010"
+    },
+    {
+      "doi": "doi:10.1016/j.procs.2010.04.199"
+    }
+  ],
+  "links": "www.elsevier.com/locate/procedia"
+}

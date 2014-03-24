@@ -1,0 +1,25 @@
+{
+  "title": "Application of Individualized Teaching Model for Basic Computer Science at Vocational Colleges",
+  "authors": [
+    {
+      "name": "Zhou Zili",
+      "email": "zhouzili88@163.com"
+    },
+    {
+      "name": "Feng Hanrong"
+    }
+  ],
+  "venues": [
+    {
+      "name": "The 6th International Conference on Computer Science \u0026 Education (ICCSE 2011)",
+      "date": "August 3-5",
+      "year": "2011",
+      "location": "SuperStar Virgo, Singapore"
+    },
+    {
+      "publisher": "IEEE",
+      "year": "2011"
+    }
+  ],
+  "affiliation": "Computer engineering Department Zhejiang Institute of Mechanical \u0026 Electrical Engineering Hangzhou, China"
+}

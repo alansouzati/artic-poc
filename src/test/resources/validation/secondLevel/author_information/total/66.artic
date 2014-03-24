@@ -1,0 +1,13 @@
+Luciano 0 0 medium false false false new medium false AUTHOR
+Barbosa 1 0 medium false false false same medium false AUTHOR
+AT&T 0 0 few false false false new normal false AFFILIATION
+Labs 1 0 few false false false same normal false AFFILIATION
+- 2 0 few false false false same normal false AFFILIATION
+Research 3 0 medium false true false same normal false AFFILIATION
+lbarbosa@research.att.com 0 0 many true false false new medium false EMAIL
+Juliana 0 0 medium false false false same medium false AUTHOR
+Freire 1 0 medium false false false same medium false AUTHOR
+University 0 0 many false true false new normal false AFFILIATION
+of 1 0 few false false false same normal false AFFILIATION
+Utah 2 0 few false false false same normal false AFFILIATION
+juliana@cs.utah.edu 0 0 many true false false new medium false EMAIL

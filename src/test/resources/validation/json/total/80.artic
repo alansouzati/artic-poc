@@ -1,0 +1,33 @@
+{
+  "title": "Towards energy-aware scheduling in data centers using machine learning",
+  "authors": [
+    {
+      "name": "Josep Ll. Berral",
+      "email": "berral@ac.upc.edu"
+    },
+    {
+      "name": "��igo Goiri",
+      "email": "igoiri@ac.upc.edu"
+    },
+    {
+      "name": "Ram�n Nou",
+      "email": "rnou@ac.upc.edu"
+    },
+    {
+      "name": "Ferran Juli�",
+      "email": "fjulia@ac.upc.edu"
+    },
+    {
+      "name": "Jordi Guitart",
+      "email": "jguitart@ac.upc.edu"
+    },
+    {
+      "name": "Ricard Gavald�"
+    },
+    {
+      "name": "Jordi Torres",
+      "email": "torres@ac.upc.edu"
+    }
+  ],
+  "affiliation": "Computer Architecture Department 1 , Department of Software 2 (Universitat Polit�cnica de Catalunya) - Barcelona Supercomputing Center 3"
+}

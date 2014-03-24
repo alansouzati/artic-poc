@@ -1,0 +1,16 @@
+Adam 0 0 few false false false new normal false AUTHOR
+Jatowt 1 0 medium false false false same normal false AUTHOR
+and 2 0 few false false false same normal false AUTHOR
+Mitsuru 3 0 medium false false false same normal false AUTHOR
+Ishizuka 4 0 medium false false false same normal false AUTHOR
+University 0 0 many false true false same normal false AFFILIATION
+of 1 0 few false false false same normal false AFFILIATION
+Tokyo, 2 0 medium false false false same normal false AFFILIATION
+7-3-1 3 0 medium false false false same normal false AFFILIATION
+Hongo, 4 0 medium false false false same normal false AFFILIATION
+Bunkyo-ku, 5 0 many false false false same normal false AFFILIATION
+113-8656 6 0 medium false false false same normal false AFFILIATION
+Tokyo, 7 0 medium false false false same normal false AFFILIATION
+Japan 8 0 medium false true false same normal false AFFILIATION
+{jatowt, 0 1 medium false false false same normal true EMAIL
+ishizuka}@miv.t.u-tokyo.ac.jp 1 1 many true false false same normal false EMAIL

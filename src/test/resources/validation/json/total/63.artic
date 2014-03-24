@@ -1,0 +1,25 @@
+{
+    "title": "Understanding Deep Web Search Interfaces: A Survey",
+    "authors": [
+        {
+            "name": "Ritu Khare",
+            "email": "ritu@ischool.drexel.edu"
+        },
+        {
+            "name": "Yuan An",
+            "email": "yan@ischool.drexel.edu"
+        },
+        {
+            "name": "II-Yeol Song",
+            "email": "isong@ischool.drexel.edu"
+        }
+    ],
+    "venues": [
+        {
+            "name": "SIGMOD Record",
+            "date": "March",
+            "year": "2010"
+        }
+    ],
+    "affiliation": "The iSchool at Drexel, Drexel University, Philadelphia, USA"
+}

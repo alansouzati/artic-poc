@@ -1,0 +1,28 @@
+{
+  "title": "Investigations on Word Senses and Word Usages",
+  "authors": [
+    {
+      "name": "Katrin Erk",
+      "email": "katrin.erk@mail.utexas.edu",
+      "affiliation": "University of Texas at Austin"
+    },
+    {
+      "name": "Diana McCarthy",
+      "email": "dianam@sussex.ac.uk",
+      "affiliation": "University of Sussex"
+    },
+    {
+      "name": "Nicholas Gaylord",
+      "email": "nlgaylord@mail.utexas.edu",
+      "affiliation": "University of Texas at Austin"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Proceedings of the 47th Annual Meeting of the ACL and the 4th IJCNLP of the AFNLP",
+      "date": "2-7 August",
+      "year": "2009",
+      "location": "Suntec, Singapore"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Automatic Extraction of Titles from General Documents using Machine Learning",
+  "authors": [
+    {
+      "name": "Yunhua Hu",
+      "email": "yunhuahu@mail.xjtu.edu.cn",
+      "affiliation": "Computer Science Department Xi’an Jiaotong University No 28, Xianning West Road Xi\u0027an, China, 710049"
+    },
+    {
+      "name": "Hang Li",
+      "email": "hangli@microsoft.com",
+      "affiliation": "Microsoft Research Asia 5F Sigma Center, No. 49 Zhichun Road, Haidian, Beijing, China, 100080"
+    },
+    {
+      "name": "Yunbo Cao",
+      "email": "yucao@microsoft.com",
+      "affiliation": "Microsoft Research Asia 5F Sigma Center, No. 49 Zhichun Road, Haidian, Beijing, China, 100080"
+    },
+    {
+      "name": "Dmitriy Meyerzon",
+      "email": "dmitriym@microsoft.com",
+      "affiliation": "Microsoft Corporation One Microsoft Way Redmond, WA, USA, 98052"
+    },
+    {
+      "name": "Qinghua Zheng",
+      "email": "qhzheng@mail.xjtu.edu.cn",
+      "affiliation": "Computer Science Department Xi’an Jiaotong University No 28, Xianning West Road Xi\u0027an, China, 710049"
+    }
+  ],
+  "venues": [
+    {
+      "name": "JCDL’05",
+      "publisher": "ACM",
+      "date": "June 7–11",
+      "year": "2005",
+      "location": "Denver, Colorado, USA",
+      "isbn": "1-58113-876-8/05/0006"
+    }
+  ]
+}

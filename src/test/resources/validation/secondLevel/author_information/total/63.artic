@@ -1,0 +1,17 @@
+Ritu 0 0 few false false false new medium false AUTHOR
+Khare 1 0 medium false false false same medium false AUTHOR
+Yuan 2 0 few false false false same medium false AUTHOR
+An 3 0 few false false false same medium false AUTHOR
+Il-Yeol 4 0 medium false false false same medium false AUTHOR
+Song 5 0 few false false false same medium false AUTHOR
+The 0 0 few false false false new normal false AFFILIATION
+iSchool 1 0 medium false true false same normal false AFFILIATION
+at 2 0 few false false false same normal false AFFILIATION
+Drexel, 3 0 medium false false false same normal false AFFILIATION
+Drexel 4 0 medium false false false same normal false AFFILIATION
+University, 5 0 many false true false same normal false AFFILIATION
+Philadelphia, 6 0 many false false false same normal false AFFILIATION
+USA 7 0 few false true false same normal false AFFILIATION
+{ritu, 0 1 medium false false false new medium true EMAIL
+yan, 1 1 few false false false same medium false EMAIL
+isong}@ischool.drexel.edu 2 1 many true false false same medium false EMAIL

@@ -1,0 +1,14 @@
+Copyright 0 0 medium false false false false false false false false false false false false false OTHER
+is 1 0 few false false false false false false false false false false false false false OTHER
+held 2 0 few false false false false false false false false false false false false false OTHER
+by 3 0 few false false false false false false false false false false false false false OTHER
+the 4 0 few false false false false false false false false false false false false false OTHER
+author/owner(s). 5 0 many false false false false false false false false false false false false false OTHER
+WWW2003, 0 1 medium false true false false false false false false false false false false false CONFERENCE_NAME
+May 1 1 few true false false false false false false false false false false false false CONFERENCE_DATE
+20–24, 2 1 medium false false true false false false false false false true false false false CONFERENCE_DATE
+2003, 3 1 medium false false false false true false false false false true false false false CONFERENCE_YEAR
+Budapest, 4 1 medium false false false false false false false false false false false false false CONFERENCE_LOCATION
+Hungary. 5 1 medium false false false true false false false false false false true false false CONFERENCE_LOCATION
+ACM 0 2 few false true false false false false false true false false false false false PUBLISHER
+1-58113-680-3/03/0005. 1 2 many false false false false false false true false false true false false false ISBN

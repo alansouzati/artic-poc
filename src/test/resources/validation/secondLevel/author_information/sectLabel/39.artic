@@ -1,0 +1,11 @@
+Blair 0 0 medium false false false new normal false AUTHOR
+MacIntyre 1 0 medium false false false same normal false AUTHOR
+and 2 0 few false false false same normal false AUTHOR
+Steven 3 0 medium false false false same normal false AUTHOR
+Feiner1 4 0 medium false false false same normal false AUTHOR
+Department 0 1 many false true false same normal false AFFILIATION
+of 1 1 few false false false same normal false AFFILIATION
+Computer 2 1 medium false true false same normal false AFFILIATION
+Science 3 1 medium false true false same normal false AFFILIATION
+Columbia 0 2 medium false false false same normal false AFFILIATION
+University 1 2 many false true false same normal false AFFILIATION

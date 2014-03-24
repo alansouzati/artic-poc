@@ -1,0 +1,18 @@
+{
+  "title": "Unsupervised Argument Identification for Semantic Role Labeling",
+  "authors": [
+    {
+      "name": "Omri Abend",
+      "email": "omria01@cs.huji.ac.il"
+    },
+    {
+      "name": "Roi Reichart",
+      "email": "roiri@cs.huji.ac.il"
+    },
+    {
+      "name": "Ari Rappoport",
+      "email": "arir@cs.huji.ac.il"
+    }
+  ],
+  "affiliation": "\u0027 Institute of Computer Science, 2 ICNC Hebrew University of Jerusalem"
+}

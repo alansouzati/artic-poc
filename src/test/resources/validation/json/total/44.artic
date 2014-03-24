@@ -1,0 +1,22 @@
+{
+  "title": "Temporal Web Page Summarization",
+  "authors": [
+    {
+      "name": "Adam Jatowt",
+      "email": "jatowt@miv.t.u-tokyo.ac.jp"
+    },
+    {
+      "name": "Mitsuru Ishizuka",
+      "email": "ishizuka@miv.t.u-tokyo.ac.jp"
+    }
+  ],
+  "venues": [
+    {
+      "name": "WISE",
+      "publisher": "Springer-Verlag",
+      "year": "2004",
+      "location": "Berlin Heidelberg"
+    }
+  ],
+  "affiliation": "University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8656 Tokyo, Japan"
+}

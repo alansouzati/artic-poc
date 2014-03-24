@@ -1,0 +1,26 @@
+{
+  "title": "A Comparative Study on Generalization of Semantic Roles in FrameNet",
+  "authors": [
+    {
+      "name": "Yuichiroh Matsubayashi",
+      "email": "y-matsu@is.s.u-tokyo.ac.jp"
+    },
+    {
+      "name": "Naoaki Okazaki",
+      "email": "okazaki@is.s.u-tokyo.ac.jp"
+    },
+    {
+      "name": "Junichi Tsujii",
+      "email": "tsujii@is.s.u-tokyo.ac.jp"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Proceedings of the 47th Annual Meeting of the ACL and the 4th IJCNLP of the AFNLP",
+      "date": "2-7 August",
+      "year": "2009",
+      "location": "Suntec, Singapore"
+    }
+  ],
+  "affiliation": "† Department of Computer Science, University of Tokyo, Japan $ School of Computer Science, University of Manchester, UK * National Centre for Text Mining, UK"
+}

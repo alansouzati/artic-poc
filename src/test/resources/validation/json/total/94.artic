@@ -1,0 +1,30 @@
+{
+    "title": "A Survey of Computer Science Teacher Preparation Programs in Israel Tells Us: Computer Science Deserves a Designated High School Teacher Preparation!",
+    "authors": [
+        {
+            "name": "Noa Ragonis",
+			"affiliation": "School of Education - Computer Science Department Beit Berl College, Israel and Department of Education in Technology and Science Technion – IIT",
+            "email": "noarag@beitberl.ac.il"
+        },
+		{
+            "name": "Orit Hazzan",
+			"affiliation": "Department of Education in Technology and Science Technion – Israel Institute of Technology",
+            "email": "oritha@tx.technion.ac.il"
+        },
+		{
+            "name": "Judith Gal-Ezer",
+			"affiliation": "Computer Science Department The Open University of Israel",
+            "email": "galezer@cs.openu.ac.il"
+        }
+    ],
+    "venues": [
+        {
+            "name": "SIGCSE’10",
+            "publisher": "ACM",
+            "date": "March 10–13",
+            "location": "Milwaukee, Wisconsin, USA",
+            "year": "2010",
+            "isbn": "978-1-60558-885-8/10/03"
+        }
+    ]
+}

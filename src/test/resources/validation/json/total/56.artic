@@ -1,0 +1,29 @@
+{
+    "title": "Cross-layer Scheduling with Secrecy Demands in Delay-aware OFDMA Network",
+    "authors": [
+        {
+            "name": "Xingzheng Zhu",
+            "email": "wendyzhu@sjtu.edu.cn"
+        },
+        {
+            "name": "Bo Yang",
+            "email": "bo.yang@sjtu.edu.cn"
+        },
+        {
+            "name": "Xinping Guan",
+            "email": "xpguan@sjtu.edu.cn"
+        }
+    ],
+    "venues": [
+         {
+           "name": "IEEE Wireless Communications and Networking Conference (WCNC): NETWORKS",
+           "year": "2013"
+         },
+         {
+           "publisher": "IEEE",
+           "year": "2013",
+           "isbn": "978-1-4673-5939-9/13/$31.00"
+         }
+    ],
+    "affiliation": "Department of Automation, Shanghai Jiao Tong University and Key Laboratory of System Control and Information Processing, Ministry of Education of China Key Laboratory of Education Ministry for Image Processing and Intelligent Control"
+}

@@ -1,0 +1,16 @@
+Pedro 0 0 medium false false false new medium false AUTHOR
+Domingos 1 0 medium false false false same medium false AUTHOR
+Department 0 0 many false true false same medium false AFFILIATION
+of 1 0 few false false false same medium false AFFILIATION
+Computer 2 0 medium false true false same medium false AFFILIATION
+Science 3 0 medium false true false same medium false AFFILIATION
+and 4 0 few false false false same medium false AFFILIATION
+Engineering 5 0 many false false false same medium false AFFILIATION
+University 0 1 many false true false same medium false AFFILIATION
+of 1 1 few false false false same medium false AFFILIATION
+Washington 2 1 many false false false same medium false AFFILIATION
+Seattle, 0 0 medium false false false same medium false AFFILIATION
+WA 1 0 few false false false same medium false AFFILIATION
+98195-2350, 2 0 many false false false same medium false AFFILIATION
+U.S.A. 3 0 medium false true false same medium false AFFILIATION
+pedrod@cs.washington.edu 0 0 many true false false same medium false EMAIL

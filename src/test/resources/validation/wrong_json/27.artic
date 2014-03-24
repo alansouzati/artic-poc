@@ -1,0 +1,30 @@
+{
+  "title": "The Adaptation of Visual Search Strategy to Expected Information Gain",
+  "authors": [
+    {
+      "name": "Yuan-Chi Tseng",
+      "email": "yuan-chi.tseng@postgrad.manchester.ac.uk",
+      "affiliation": "The University of Manchester MBS Crawford House 2.30, Booth Street West, Manchester, M15 6PB, UK"
+    }
+  ],
+  "venues": [
+    {
+      "name": "CHI 2008 Proceedings · Search",
+      "date": "April 5-10",
+      "year": "2008",
+      "location": "Florence, Italy"
+    },
+    {
+      "name": "CHI",
+      "publisher": "ACM",
+      "date": "April 5–10",
+      "year": "2008",
+      "location": "Florence, Italy",
+      "isbn": "978-1-60558-011-1/08/04"
+    }
+  ],
+  "affiliation": "Andrew Howes The University of Manchester MBS East F31, Booth Street West, Manchester, M15 6PB, UK",
+  "emails": [
+    "howesa@manchester.ac.uk"
+  ]
+}

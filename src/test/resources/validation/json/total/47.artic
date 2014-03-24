@@ -1,0 +1,34 @@
+{
+    "title": "From Tweets to Polls: Linking Text Sentiment to Public Opinion Time Series",
+    "authors": [
+        {
+            "name": "Brendan O'Connor",
+            "email": "brenocon@cs.cmu.edu",
+            "affiliation": "School of Computer Science Carnegie Mellon University"
+        },
+        {
+            "name": "Ramnath Balasubramanyan",
+            "email": "rbalasub@cs.cmu.edu",
+            "affiliation": "School of Computer Science Carnegie Mellon University"
+        },
+        {
+            "name": "Bryan R. Routledge",
+            "email": "routledge@cmu.edu",
+            "affiliation": "Tepper School of Business Carnegie Mellon University"
+        },
+        {
+            "name": "Noah A. Smith",
+            "email": "nasmith@cs.cmu.edu",
+            "affiliation": "School of Computer Science Carnegie Mellon University"
+        }
+    ],
+    "venues": [
+        {
+            "name": "Association for the Advancement of Artificial Intelligence",
+            "year": "2010"
+        },
+        {
+            "name": "Proceedings of the Fourth International AAAI Conference on Weblogs and Social Media"
+        }
+    ]
+}

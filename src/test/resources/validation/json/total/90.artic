@@ -1,0 +1,40 @@
+{
+  "title": "Bob: A Free Signal Processing and Machine Learning Toolbox for Researchers",
+  "authors": [
+    {
+      "name": "Andr Anjos",
+      "email": "andre.anjos@idiap.ch"
+    },
+    {
+      "name": "Laurent El Shafey",
+      "email": "laurent.el-shafey@idiap.ch"
+    },
+    {
+      "name": "Roy Wallace",
+      "email": "roy.wallace@idiap.ch"
+    },
+    {
+      "name": "Manuel Gnther",
+      "email": "manuel.guenther@idiap.ch"
+    },
+    {
+      "name": "Chris McCool",
+      "email": "christopher.mccool@idiap.ch"
+    },
+    {
+      "name": "Sbastien Marcel Idiap",
+      "email": "sebastien.marcel@idiap.ch"
+    }
+  ],
+  "venues": [
+    {
+      "name": "MM’12",
+      "publisher": "ACM",
+      "date": "October 29–November 2",
+      "year": "2012",
+      "location": "Nara, Japan",
+      "isbn": "978-1-4503-1089-5/12/10"
+    }
+  ],
+  "affiliation": "Research Institute Centre du Parc, rue Marconi 19, PO Box 592 CH-1920, Martigny, Switzerland"
+}

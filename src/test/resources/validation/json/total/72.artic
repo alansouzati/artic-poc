@@ -1,0 +1,30 @@
+{
+    "title": "Deciding the Physical Implementation of ETL Workflows",
+    "authors": [
+        {
+            "name": "Vasiliki Tziovara",
+            "email": "vickit@cs.uoi.gr",
+            "affiliation": "University of Ioannina Ioannina, Hellas"
+        },
+        {
+            "name": "Panos Vassiliadis",
+            "email": "pvassil@cs.uoi.gr",
+            "affiliation": "University of Ioannina Ioannina, Hellas"
+        },
+        {
+            "name": "Alkis Simitsis",
+            "email": "asimits@us.ibm.com",
+            "affiliation": "IBM Almaden Research Center San Jose, California, USA"
+        }
+    ],
+    "venues": [
+        {
+            "name": "DOLAP’07",
+            "publisher": "ACM",
+            "date": "November 9",
+            "year": "2007",
+            "location": "Lisboa, Portugal.",
+            "isbn": "978-1-59593-827-5/07/0011"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A Taxonomy of Ambient Information Systems: Four Patterns of Design",
+  "authors": [
+    {
+      "name": "Zachary Pousman",
+      "email": "zach@cc.gatech.edu",
+      "affiliation": "College of Computing/GVU Center Georgia Institute of Technology Atlanta, GA 30332 +1 (404) 385-2447"
+    },
+    {
+      "name": "John Stasko",
+      "email": "stasko@cc.gatech.edu",
+      "affiliation": "College of Computing/GVU Center Georgia Institute of Technology Atlanta, GA 30332 + 1 (404) 894 5617"
+    }
+  ],
+  "venues": [
+    {
+      "name": "AVI \u002706",
+      "publisher": "ACM",
+      "date": "May 23-26",
+      "year": "2006",
+      "location": "Venezia, Italy",
+      "isbn": "1-59593-353-0/06/0005"
+    }
+  ]
+}

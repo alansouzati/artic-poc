@@ -1,0 +1,9 @@
+SIGMOD 0 0 medium false true false false false false false false false false false false false CONFERENCE_NAME
+Record, 1 0 medium false false false false false false false false false false false false false CONFERENCE_NAME
+Vol. 2 0 few false false false false false false false false false false false false false OTHER
+33, 3 0 few false false false false false false false false false true false false false OTHER
+No. 4 0 few false false false false false false false false false false false false false OTHER
+3, 5 0 few false false false false false false false false false true false false false OTHER
+September 6 0 medium true false false false false false false false false false false false false CONFERENCE_DATE
+2004 7 0 few false false false false true false false false false true false false false CONFERENCE_YEAR
+61 8 0 few false false false false false false false false false true false false false OTHER

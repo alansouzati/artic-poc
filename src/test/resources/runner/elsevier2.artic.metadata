@@ -1,0 +1,34 @@
+{
+  "title": "Spray computers: Explorations in self-organization",
+  "authors": [
+    {
+      "name": "Franco Zambonelli",
+      "email": "franco.zambonelli@unimo.it"
+    },
+    {
+      "name": "Marie-Pierre Gleizes"
+    },
+    {
+      "name": "Marco Mamei"
+    },
+    {
+      "name": "Robert Tolksdorf"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Pervasive and Mobile Computing",
+      "year": "2005",
+      "page": "1–20",
+      "volume": "1"
+    },
+    {
+      "publisher": "Elsevier",
+      "year": "2005",
+      "issn": "1574-1192",
+      "doi": "doi:10.1016/j.pmcj.2005.01.001"
+    }
+  ],
+  "affiliation": "c a DISMI, Università di Modena e Reggio Emilia, Reggio Emilia, Italy b IRIT, Université Paul Sabatier, Toulouse, France c Institut für Informatik, Freie Universität Berlin, Berlin, Germany",
+  "links": "www.elsevier.com/locate/pmc"
+}

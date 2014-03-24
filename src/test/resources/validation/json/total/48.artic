@@ -1,0 +1,30 @@
+{
+    "title": "Mining the Peanut Gallery: Opinion Extraction and Semantic Classification of Product Reviews",
+    "authors": [
+        {
+            "name": "Kushal Dave",
+            "email": "kushal@neclabs.com",
+            "affiliation": "NEC Laboratories America 4 Independence Way Princeton, NJ 08540"
+        },
+        {
+            "name": "Steve Lawrence",
+            "email": "lawrence@necmail.com",
+            "affiliation": "NEC Laboratories America 4 Independence Way Princeton, NJ 08540"
+        },
+        {
+            "name": "David M. Pennock",
+            "email": "david.pennock@overture.com",
+            "affiliation": "Overture Services, Inc., 74 Pasadena Ave, 3rd Floor Pasadena, CA 91101"
+        }
+    ],
+    "venues": [
+        {
+            "name": "WWW2003",
+            "publisher": "ACM",
+            "date": "May 20�24",
+            "year": "2003",
+            "location": "Budapest, Hungary.",
+            "isbn": "1-58113-680-3/03/0005"
+        }
+    ]
+}

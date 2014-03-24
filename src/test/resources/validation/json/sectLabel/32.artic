@@ -1,0 +1,19 @@
+{
+  "title": "Automated Rich Presentation of a Semantic Topic",
+  "authors": [
+    {
+      "name": "Lie Lu",
+      "email": "llu@microsoft.com"
+    },
+    {
+      "name": "Zhi-Wei Li",
+      "email": "zli@microsoft.com"
+    }
+  ],
+  "venues": [
+    {
+      "name": "MM’05"
+    }
+  ],
+  "affiliation": "Microsoft Research Asia"
+}

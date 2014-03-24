@@ -1,0 +1,30 @@
+{
+    "title": "Using Scalable Game Design to Teach Computer Science From Middle School to Graduate School",
+    "authors": [
+        {
+            "name": "Ashok R. Basawapatna",
+			"affiliation": "University of Colorado Boulder Department of Computer Science Boulder, CO. 80303 (720) 838-5838, 001",
+            "email": "basawapa@colorado.edu"
+        },
+		{
+            "name": "Kyu Han Koh",
+			"affiliation": "University of Colorado Boulder Department of Computer Science Boulder, CO. 80303 (303) 495-0357, 001",
+            "email": "kohkh@colorado.edu"
+        },
+		{
+            "name": "Alexander Repenning",
+			"affiliation": "University of Colorado Boulder Department of Computer Science Boulder, CO. 80303 (303) 492-1349, 001",
+            "email": "ralex@cs.colorado.edu"
+        }
+    ],
+    "venues": [
+        {
+            "name": "ITiCSE’10",
+            "publisher": "ACM",
+            "date": "June 26–30",
+            "location": "Bilkent, Ankara, Turkey",
+            "year": "2010",
+            "isbn": "978-1-60558-820-9/10/06"
+        }
+    ]
+}

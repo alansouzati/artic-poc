@@ -1,0 +1,12 @@
+Thomas 0 0 medium false false false new medium false AUTHOR
+Roelleke 1 0 medium false false false same medium false AUTHOR
+Department 0 0 many false true false same medium false AFFILIATION
+of 1 0 few false false false same medium false AFFILIATION
+Computer 2 0 medium false true false same medium false AFFILIATION
+Science 3 0 medium false true false same medium false AFFILIATION
+Queen 0 1 medium false false false same medium false AFFILIATION
+Mary 1 1 few false false false same medium false AFFILIATION
+University 2 1 many false true false same medium false AFFILIATION
+of 3 1 few false false false same medium false AFFILIATION
+London 4 1 medium false false false same medium false AFFILIATION
+thor@dcs.qmul.ac.uk 0 0 many true false false same medium false EMAIL

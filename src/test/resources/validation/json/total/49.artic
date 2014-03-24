@@ -1,0 +1,24 @@
+{
+    "title": "Large-Scale Sentiment Analysis for News and Blogs",
+    "authors": [
+        {
+            "name": "Namrata Godbole",
+            "email": "namratagodbole@gmail.com"
+        },
+        {
+            "name": "Manjunath Srinivasaiah",
+            "email": "manj.blr@gmail.com"
+        },
+        {
+            "name": "Steven Skiena",
+            "email": "skiena@cs.sunysb.edu"
+        }
+    ],
+    "venues": [
+        {
+            "name": "ICWSM’2007",
+            "location": "Boulder, Colorado, USA"
+        }
+    ],
+    "affiliation": "Google Inc., New York NY, USA Dept. of Computer Science, Stony Brook University, Stony Brook, NY 11794-4400, USA"
+}

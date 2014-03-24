@@ -1,0 +1,13 @@
+Hiroshi 0 0 medium false false false new medium false AUTHOR
+Hosobe 1 0 medium false false false same medium false AUTHOR
+National 0 0 medium false false false new normal false AFFILIATION
+Institute 1 0 medium false true false same normal false AFFILIATION
+of 2 0 few false false false same normal false AFFILIATION
+Informatics 3 0 many false false false same normal false AFFILIATION
+2-1-2 0 0 medium false false false same normal false AFFILIATION
+Hitotsubashi, 1 0 many false false false same normal false AFFILIATION
+Chiyoda-ku, 2 0 many false false false same normal false AFFILIATION
+Tokyo 3 0 medium false false false same normal false AFFILIATION
+101-8430, 4 0 medium false false false same normal false AFFILIATION
+Japan 5 0 medium false true false same normal false AFFILIATION
+hosobe@nii.ac.jp 0 0 many true false false new medium false EMAIL

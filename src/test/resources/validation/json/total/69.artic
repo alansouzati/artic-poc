@@ -1,0 +1,35 @@
+{
+    "title": "Object Search: Supporting Structured Queries in Web Search Engines",
+    "authors": [
+        {
+            "name": "Kim Cuong Pham",
+            "email": "kimpham2@illinois.edu"
+        },
+        {
+            "name": "Nicholas Rizzolo",
+            "email": "rizzolo@illinois.edu"
+        },
+        {
+            "name": "Kevin Small",
+            "email": "kevin.small@tufts.edu"
+        },
+        {
+            "name": "Kevin Chen-Chuan Chang",
+            "email": "kcchang@illinois.edu"
+        },
+        {
+            "name": "Dan Roth",
+            "email": "danr@illinois.edu"
+        }
+    ],
+    "venues": [
+        {
+            "name": "Proceedings of the NAACL HLT 2010 Workshop on Semantic Search",
+            "publisher": "Association for Computational Linguistics",
+            "date": "June",
+            "year": "2010",
+            "location": "Los Angeles, California"
+        }
+    ],
+    "affiliation": "University of Illinois at Urbana-Champaign Tufts University Department of Computer ScienceGeorgia Institute of Technology"
+}

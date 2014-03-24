@@ -1,0 +1,29 @@
+{
+  "title": "Teaching computer game design and construction",
+  "authors": [
+    {
+      "name": "Scott Schaefer",
+      "email": "jwarren@cs.rice.edu"
+    },
+    {
+      "name": "Joe Warren",
+      "email": "sschaefe@rice.edu"
+    }
+  ],
+  "venues": [
+      {
+        "name": "Computer-Aided Design",
+        "volume": "36",
+        "year": "2004",
+        "page": "1501–1510"
+      },
+      {
+        "publisher": "Elsevier",
+        "year": "2004",
+        "issn": "0010-4485",
+        "doi": "doi:10.1016/j.cad.2003.10.006"
+      }
+  ],
+  "affiliation": "Department of Computer Science, Rice University, 6100 South Main, Houston, TX 77251-1892, USA",
+  "links": "www.elsevier.com/locate/cad"
+}

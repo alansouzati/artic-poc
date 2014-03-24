@@ -1,0 +1,10 @@
+Lie 0 0 few false false false new medium false AUTHOR
+Lu 1 0 few false false false same medium false AUTHOR
+and 2 0 few false false false same medium false AUTHOR
+Zhi-Wei 3 0 medium false false false same medium false AUTHOR
+Li 4 0 few false false false same medium false AUTHOR
+Microsoft 0 1 medium false false false new normal false AFFILIATION
+Research 1 1 medium false true false same normal false AFFILIATION
+Asia 2 1 few false true false same normal false AFFILIATION
+{llu, 0 0 medium false false false new medium true EMAIL
+zli}@microsoft.com 1 0 many true false false same medium false EMAIL

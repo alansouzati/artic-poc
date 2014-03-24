@@ -1,0 +1,46 @@
+{
+  "title": "Ambient Social TV: Drawing People into a Shared Experience",
+  "authors": [
+    {
+      "name": "Gunnar Harboe",
+      "email": "gunnar.harboe@motorola.com"
+    },
+    {
+      "name": "Crysta J. Metcalf",
+      "email": "crysta.metcalf@motorola.com"
+    },
+    {
+      "name": "Frank Bentley",
+      "email": "f.bentley@motorola.com"
+    },
+    {
+      "name": "Joe Tullio",
+      "email": "joe.tullio@motorola.com"
+    },
+    {
+      "name": "Noel Massey",
+      "email": "noel.massey@motorola.com"
+    },
+    {
+      "name": "Guy Romano",
+      "email": "guy@motorola.com"
+    }
+  ],
+  "venues": [
+    {
+      "name": "CHI 2008 Proceedings · Socio-Cultural Impact",
+	  "date": "April 5-10",
+	  "year": "2008",
+	  "location": "Florence, Italy"
+    },
+    {
+      "name": "CHI",
+      "publisher": "ACM",
+      "date": "April 5–10",
+      "year": "2008",
+      "location": "Florence, Italy",
+      "isbn": "978-1-60558-011-1/08/04"
+    }
+  ],
+  "affiliation": "Motorola Labs 1295 E. Algonquin Rd., Schaumburg, IL 60196"
+}

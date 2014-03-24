@@ -1,0 +1,30 @@
+{
+  "title": "You’ve Been Warned: An Empirical Study of the Effectiveness of Web Browser Phishing Warnings",
+  "authors": [
+    {
+      "name": "Serge Egelman",
+      "email": "egelman@cs.cmu.edu",
+      "affiliation": "Carnegie Mellon University"
+    },
+    {
+      "name": "Lorrie Faith Cranor",
+      "email": "lorrie@cs.cmu.edu",
+      "affiliation": "Carnegie Mellon University"
+    },
+    {
+      "name": "Jason Hong",
+      "email": "jasonh@cs.cmu.edu",
+      "affiliation": "Carnegie Mellon University"
+    }
+  ],
+  "venues": [
+    {
+      "name": "CHI",
+      "publisher": "ACM",
+	  "date": "April 5 - 10",
+      "year": "2008",
+      "location": "Florence, Italy",
+      "isbn": "1-59593-178-3/07/0004"
+    }
+  ]
+}

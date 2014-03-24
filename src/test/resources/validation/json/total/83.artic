@@ -1,0 +1,32 @@
+{
+  "title": "EnsembleMatrix: Interactive Visualization to Support Machine Learning with Multiple Classifiers",
+  "authors": [
+    {
+      "name": "Justin Talbot",
+      "email": "jtalbot@stanford.edu"
+    },
+	{
+      "name": "Bongshin Lee",
+      "email": "bongshin@microsoft.com"
+    },
+	{
+      "name": "Ashish Kapoor",
+      "email": "akapoor@microsoft.com"
+    },
+	{
+      "name": "Desney S. Tan",
+      "email": "desney@microsoft.com"
+    }
+  ],
+  "venues": [
+    {
+      "name": "CHI",
+      "publisher": "ACM",
+      "date": "April 4–9",
+      "year": "2009",
+	  "location": "Boston, MA, USA",
+      "isbn": "978-1-60558-246-7/09/04"
+    }
+  ],
+  "affiliation": "Stanford University 353 Serra Street, Stanford, CA 94305 Microsoft Research One Microsoft Way, Redmond, WA 98052"
+}

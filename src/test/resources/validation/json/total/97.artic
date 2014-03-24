@@ -1,0 +1,26 @@
+{
+    "title": "The CS10K Project: Mobilizing the Community to Transform High School Computing",
+    "authors": [
+        {
+            "name": "Owen Astrachan",
+			"affiliation": "Duke University",
+            "email": "ola@cs.duke.edu"
+        },
+		{
+            "name": "Jan Cuny",
+			"affiliation": "National Science Foundation",
+            "email": "jcuny@nsf.gov"
+        },
+		{
+            "name": "Chris Stephenson",
+			"affiliation": "Executive Director, CSTA",
+            "email": "cstephenson@csta.acm.org"
+        },
+		{
+            "name": "Cameron Wilson",
+			"affiliation": "Director ACM Office of Public Policy",
+            "email": "cameron.wilson@acm.org"
+        }
+		
+    ]
+}

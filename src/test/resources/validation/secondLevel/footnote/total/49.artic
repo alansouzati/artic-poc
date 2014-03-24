@@ -1,0 +1,4 @@
+ICWSM’2007 0 0 many false true false false false false false false false false false false false CONFERENCE_NAME
+Boulder, 1 0 medium false false false false false false false false false false false false false CONFERENCE_LOCATION
+Colorado, 2 0 medium false false false false false false false false false false false false false CONFERENCE_LOCATION
+USA 3 0 few false false false true false false false false false false true false false CONFERENCE_LOCATION

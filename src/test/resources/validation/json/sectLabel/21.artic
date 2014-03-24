@@ -1,0 +1,28 @@
+{
+  "title": "Accelerated Focused Crawling through Online Relevance Feedback *",
+  "authors": [
+    {
+      "name": "Soumen Chakrabarti",
+      "email": "soumen@cse.iitb.ac.in",
+      "affiliation": "IIT Bombay"
+    },
+    {
+      "name": "Kunal Punera",
+      "affiliation": "IIT Bombay"
+    },
+    {
+      "name": "Mallela Subramanyam",
+      "affiliation": "University of Texas, Austin"
+    }
+  ],
+  "venues": [
+    {
+      "name": "WWW2002",
+      "publisher": "ACM",
+      "date": "May 7–11",
+      "year": "2002",
+      "location": "Honolulu, Hawaii, USA",
+      "isbn": "1-58113-449-5/02/0005"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A Machine Learning Based Approach for Table Detection on The Web",
+  "authors": [
+    {
+      "name": "Yalin Wang",
+      "email": "ylwang@u.washington.edu",
+      "affiliation": "Intelligent Systems Laboratory Dept. of Electrical Engineering Univ. of Washington Seattle, WA 98195 US"
+    },
+    {
+      "name": "Jianying Hu",
+      "email": "jianhu@avaya.com",
+      "affiliation": "Avaya Labs Research 233, Mount Airy Road Basking Ridge, NJ 07920 US"
+    }
+  ],
+  "venues": [
+    {
+	  "name": "WWW2002",
+      "publisher": "ACM",
+      "date": "May 7–11",
+      "year": "2002",
+      "location": "Honolulu, Hawaii, USA",
+      "isbn": "1-58113-449-5/02/0005"
+    }
+  ]
+}

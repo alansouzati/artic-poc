@@ -1,0 +1,14 @@
+/target
+target
+tmp
+.history
+dist
+/.idea
+/*.iml
+/.idea_modules
+/.classpath
+/.project
+pom.xml
+/*template.crf
+/*model.crf
+/conferences.txt

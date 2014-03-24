@@ -1,0 +1,20 @@
+{
+    "title": "Connecting K-16 Curriculum & Policy: Making Computer Science Engaging, Accessible, and Hospitable for Underrepresented Students",
+    "authors": [
+        {
+            "name": "Joanna Goode",
+            "email": "goodej@uoregon.edu"
+        }
+    ],
+    "venues": [
+        {
+            "name": "SIGCSE’10",
+            "publisher": "ACM",
+            "date": "March 10–13",
+            "location": "Milwaukee, Wisconsin, USA",
+            "year": "2010",
+            "isbn": "978-1-60558-885-8/10/03"
+        }
+    ],
+    "affiliation": "Education Studies University of Oregon Eugene, OR 97403-5277"
+}

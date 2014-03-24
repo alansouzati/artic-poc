@@ -1,0 +1,35 @@
+{
+  "title": "Don’t Look Now, But We’ve Created a Bureaucracy: The Nature and Roles of Policies and Rules in Wikipedia",
+  "authors": [
+    {
+      "name": "Brian Butler",
+      "email": "bbutler@katz.pitt.edu",
+      "affiliation": "Katz Graduate School of Business, University of Pittsburgh"
+    },
+    {
+      "name": "Elisabeth Joyce",
+      "email": "ejoyce@edinboro.edu",
+      "affiliation": "Edinboro University of Pennsylvania"
+    },
+    {
+      "name": "Jacqueline Pike",
+      "email": "jpike@katz.pitt.edu",
+      "affiliation": "Katz Graduate School of Business, University of Pittsburgh"
+    }
+  ],
+  "venues": [
+    {
+      "name": "CHI"
+    },
+    {
+      "name": "Proceedings · Shared Authoring April 5-10, · Florence, Italy",
+      "year": "2008"
+    },
+    {
+      "name": "CHI",
+      "date": "April 5–10",
+      "year": "2008",
+      "location": "Florence, Italy"
+    }
+  ]
+}

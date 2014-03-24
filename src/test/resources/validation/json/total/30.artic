@@ -1,0 +1,18 @@
+{
+  "title": "Unsupervised Multilingual Grammar Induction",
+  "authors": [
+    {
+      "name": "Benjamin Snyder",
+      "email": "bsnyder@csail.mit.edu"
+    },
+    {
+      "name": "Tahira Naseem",
+      "email": "tahira@csail.mit.edu"
+    },
+    {
+      "name": "Regina Barzilay",
+      "email": "regina@csail.mit.edu"
+    }
+  ],
+  "affiliation": "Computer Science and Artificial Intelligence Laboratory Massachusetts Institute of Technology"
+}

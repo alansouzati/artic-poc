@@ -1,0 +1,13 @@
+KDD’04, 0 0 medium false true false false false false false false false false false false false CONFERENCE_NAME
+August 1 0 medium true false false false false false false false false false false false false CONFERENCE_DATE
+22–25, 2 0 medium false false true false false false false false false true false false false CONFERENCE_DATE
+2004, 3 0 medium false false false false true false false false false true false false false CONFERENCE_YEAR
+Seattle, 4 0 medium false false false false false false false false false false false false false CONFERENCE_LOCATION
+Washington, 5 0 many false false false false false false false false false false false false false CONFERENCE_LOCATION
+USA. 6 0 few false false false true false false false false false false true false false CONFERENCE_LOCATION
+Copyright 0 0 medium false false false false false false false false false false false false false OTHER 
+2004 1 0 few false false false false true false false false false true false false false CONFERENCE_YEAR
+ACM 2 0 few false true false false false false false true false false false false false PUBLISHER
+1-58113-888-1/04/0008 3 0 many false false false false false false true false false true false false false ISBN
+...$5.00. 4 0 medium false false false false false false false false false true false false false OTHER
+743 0 0 few false false false false false false false false false true false false false OTHER

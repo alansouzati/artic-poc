@@ -1,0 +1,30 @@
+{
+  "title": "Cross Language Dependency Parsing using a Bilingual Lexicon *",
+  "authors": [
+    {
+      "name": "Hai Zhao",
+      "email": "haizhao@cityu.edu.hk"
+    },
+    {
+      "name": "Yan Song",
+      "email": "yansong@cityu.edu.hk"
+    },
+    {
+      "name": "Chunyu Kit",
+      "email": "ctckit@cityu.edu.hk"
+    },
+    {
+      "name": "Guodong Zhou",
+      "email": "gdzhou@suda.edu.cn"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Proceedings of the 47th Annual Meeting of the ACL and the 4th IJCNLP of the AFNLP",
+      "date": "2-7 August",
+      "year": "2009",
+      "location": "Suntec, Singapore"
+    }
+  ],
+  "affiliation": "† Department of Chinese, Translation and Linguistics City University of Hong Kong 83 Tat Chee Avenue, Kowloon, Hong Kong, China ‡School of Computer Science and Technology Soochow University, Suzhou, China 215006"
+}

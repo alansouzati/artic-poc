@@ -1,0 +1,36 @@
+{
+  "title": "Modeling How Students Learn to Program",
+  "authors": [
+    {
+      "name": "Chris Piech",
+      "email": "piech@cs.stanford.edu"
+    },
+    {
+      "name": "Mehran Sahami",
+      "email": "sahami@cs.stanford.edu"
+    },
+    {
+      "name": "DaphneKoller",
+      "email": "koller@cs.stanford.edu"
+    },
+    {
+      "name": "Stephen Cooper",
+      "email": "coopers@cs.stanford.edu"
+    },
+    {
+      "name": "Paulo Blikstein",
+      "email": "paulob@stanford.edu"
+    }
+  ],
+  "venues": [
+    {
+	  "name": "Conference’10",
+      "publisher": "ACM",
+	  "date": "Month 1–2",
+      "year": "2010",
+	  "location": "City, State, Country",
+      "isbn": "1-58113-000-0/00/0010"
+    }
+  ],
+  "affiliation": "1Computer Science Department, 2School of Education Stanford University Stanford, CA. 94305"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Brutus: A Semantic Role Labeling System Incorporating CCG, CFG, and Dependency Features",
+  "authors": [
+    {
+      "name": "Stephen A. Boxwell",
+      "email": "boxwe11@1ing.ohio-state.edu"
+    },
+    {
+      "name": "Dennis Mehay",
+      "email": "mehay@1ing.ohio-state.edu"
+    },
+    {
+      "name": "Chris Brew",
+      "email": "cbrew@1ing.ohio-state.edu"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Proceedings of the 47th Annual Meeting of the ACL and the 4th IJCNLP of the AFNLP",
+      "date": "2-7 August",
+      "year": "2009",
+      "location": "Suntec, Singapore"
+    }
+  ],
+  "affiliation": "Department of Linguistics The Ohio State University"
+}

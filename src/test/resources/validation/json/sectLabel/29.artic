@@ -1,0 +1,38 @@
+{
+  "title": "Heterogeneous Transfer Learning for Image Clustering via the Social Web",
+  "authors": [
+    {
+      "name": "Qiang Yang",
+      "email": "qyang@cs.ust.hk",
+      "affiliation": "Hong Kong University of Science and Technology, Clearway Bay, Kowloon, Hong Kong"
+    },
+    {
+      "name": "Yuqiang Chen",
+      "email": "yuqiangchen@apex.sjtu.edu.cn",
+      "affiliation": "Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, China"
+    },
+    {
+      "name": "Gui-Rong Xue",
+      "email": "grxue@apex.sjtu.edu.cn",
+      "affiliation": "Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, China"
+    },
+    {
+      "name": "Wenyuan Dai",
+      "email": "dwyak@apex.sjtu.edu.cn",
+      "affiliation": "Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, China"
+    },
+    {
+      "name": "Yong Yu",
+      "email": "yyu@apex.sjtu.edu.cn",
+      "affiliation": "Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, China"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Proceedings of the 47th Annual Meeting of the ACL and the 4th IJCNLP of the AFNLP",
+      "date": "2-7 August",
+      "year": "2009",
+      "location": "Suntec, Singapore"
+    }
+  ]
+}

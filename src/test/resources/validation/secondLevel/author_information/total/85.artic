@@ -1,0 +1,10 @@
+L´eon 0 0 medium false false false new normal false AUTHOR
+Bottou 1 0 medium false false false same normal false AUTHOR
+NEC 0 0 few false false false new small false AFFILIATION
+Labs 1 0 few false false false same small false AFFILIATION
+America, 2 0 medium false true false same small false AFFILIATION
+Princeton 3 0 medium false false false same small false AFFILIATION
+NJ 4 0 few false false false same small false AFFILIATION
+08542, 5 0 medium false false false same small false AFFILIATION
+USA 6 0 few false true false same small false AFFILIATION
+leon@bottou.org 0 1 many true false false same small false EMAIL

@@ -1,0 +1,18 @@
+{
+    "title": "Gulliver in the land of data warehousing: practical experiences and observations of a researcher",
+    "authors": [
+        {
+            "name": "Panos Vassiliadis",
+            "email": "pvassil@dbnet.ece.ntua.gr"
+        }
+    ],
+    "venues": [
+        {
+            "name": "Proceedings of the International Workshop on Design and Management of Data Warehouses (DMDW'2000)",
+            "date": "June 5–6",
+            "year": "2000",
+            "location": "Stockholm, Sweden"
+        }
+    ],
+    "affiliation": "National Technical University of Athens, Department of Electrical and Computer Engineering, Computer Science Division, Knowledge and Database Systems Laboratory"
+}

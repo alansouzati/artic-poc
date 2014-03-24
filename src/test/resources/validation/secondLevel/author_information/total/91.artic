@@ -1,0 +1,11 @@
+Joanna 0 0 medium false false false new medium false AUTHOR
+Goode 1 0 medium false false false same medium false AUTHOR
+Education 0 0 medium false true false new normal false AFFILIATION
+Studies 1 0 medium false false false same normal false AFFILIATION
+University 0 1 many false true false same normal false AFFILIATION
+of 1 1 few false false false same normal false AFFILIATION
+Oregon 2 1 medium false false false same normal false AFFILIATION
+Eugene, 0 2 medium false false false same normal false AFFILIATION
+OR 1 2 few false false false same normal false AFFILIATION
+97403-5277 2 2 many false false false same normal false AFFILIATION
+goodej@uoregon.edu 0 0 many true false false new medium false EMAIL

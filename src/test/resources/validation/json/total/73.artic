@@ -1,0 +1,24 @@
+{
+    "title": "Defining ETL Worfklows using BPMN and BPEL",
+    "authors": [
+        {
+            "name": "Zineb El Akkaoui",
+            "email": "zelakkao@ulb.ac.be"
+        },
+        {
+            "name": "Esteban Zimányi",
+            "email": "ezimanyi@ulb.ac.be"
+        }
+    ],
+    "venues": [
+        {
+            "name": "DOLAP’09",
+            "publisher": "ACM",
+            "date": "November 6",
+            "year": "2009",
+            "location": "Hong Kong, China.",
+            "isbn": "978-1-60558-801-8/09/11"
+        }
+    ],
+    "affiliation": "Department of Computer and Decision Engineering (CoDE) Université Libre de Bruxelles 50 Avenue F. D. Roosevelt 1050 Brussels, Belgium"
+}

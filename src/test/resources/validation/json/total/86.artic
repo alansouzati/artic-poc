@@ -1,0 +1,39 @@
+{
+  "title": "Cellular Traffic Offloading through Opportunistic Communications: A Case Study",
+  "authors": [
+    {
+      "name": "Bo Han",
+      "affiliation": "Department of Computer Science University of Maryland College Park, MD 20742, U.S."
+    },
+    {
+      "name": "Madhav V. Marathe",
+      "affiliation": "Department of Computer Science and Virginia Bioinformatics Institute Virginia Tech Blacksburg, VA 24061, USA"
+    },
+    {
+      "name": "Pan Hui",
+      "affiliation": "Deutsche Telekom Laboratories Ernst-Reuter-Platz 7 10587 Berlin, Germany"
+    },
+    {
+      "name": "Guanhong Pei",
+      "affiliation": "Department of Computer Science and Virginia Bioinformatics Institute Virginia Tech Blacksburg, VA 24061, USA"
+    },
+    {
+      "name": "V. S. Anil Kumar",
+      "affiliation": "Department of Computer Science and Virginia Bioinformatics Institute Virginia Tech Blacksburg, VA 24061, USA"
+    },
+    {
+      "name": "Aravind Srinivasan",
+      "affiliation": "Department of Computer Science and Institute for Advanced Computer Studies University of Maryland College Park, MD 20742, U.S."
+    }
+  ],
+  "venues": [
+    {
+      "name": "CHANTS’10",
+      "publisher": "ACM",
+      "date": "September 24",
+      "year": "2010",
+      "location": "Chicago, Illinois, USA",
+      "isbn": "978-1-4503-0139-8/10/09"
+    }
+  ]
+}

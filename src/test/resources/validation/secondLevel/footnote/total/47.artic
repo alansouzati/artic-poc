@@ -1,0 +1,15 @@
+Copyright 0 0 medium false false false false false false false false false false false false false OTHER
+© 1 0 few false false false false false false false false false false false false false OTHER
+2010, 2 0 medium false false false false true false false false false true false false false CONFERENCE_YEAR
+Association 3 0 many false false false false false false false false false false false false false CONFERENCE_NAME
+for 4 0 few false false false false false false false false false false false false false CONFERENCE_NAME
+the 5 0 few false false false false false false false false false false false false false CONFERENCE_NAME
+Advancement 6 0 many false false false false false false false false false false false false false CONFERENCE_NAME
+of 7 0 few false false false false false false false false false false false false false CONFERENCE_NAME
+Artificial 8 0 many false false false false false false false false false false false false false CONFERENCE_NAME
+Intelligence 0 1 many false false false false false false false false false false false false false CONFERENCE_NAME
+(www.aaai.org). 1 1 many false false false false false true false false false false false false false OTHER
+All 2 1 few false false false false false false false false false false false false false OTHER
+rights 3 1 medium false false false false false false false false false false false false false OTHER
+reserved. 4 1 medium false false false false false false false false false false false false false OTHER
+122 0 0 few false false false false false false false false false true false false false OTHER

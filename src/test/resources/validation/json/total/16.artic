@@ -1,0 +1,24 @@
+{
+  "title": "A Resilient Packet-Forwarding Scheme against Maliciously Packet-Dropping Nodes in Sensor Networks",
+  "authors": [
+    {
+      "name": "Suk-Bok Lee",
+      "email": "sblee@cs.hongik.ac.kr"
+    },
+    {
+      "name": "Yoon-Hwa Choi",
+      "email": "yhchoi@cs.hongik.ac.kr"
+    }
+  ],
+  "venues": [
+    {
+      "name": "SASN’06",
+      "publisher": "ACM",
+      "date": "October 30",
+      "year": "2006",
+      "location": "Alexandria, Virginia, USA",
+      "isbn": "1-59593-554-1/06/0010"
+    }
+  ],
+  "affiliation": "Department of Computer Engineering Hongik University 121-791 Seoul, Korea"
+}

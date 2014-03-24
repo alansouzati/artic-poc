@@ -1,0 +1,7 @@
+DOLAP’11, 0 0 medium false true false false false false false false false false false false false CONFERENCE_NAME
+October 1 0 medium true false false false false false false false false false false false false CONFERENCE_DATE
+28, 2 0 few false false false false false false false false false true false false false CONFERENCE_DATE
+2011, 3 0 medium false false false false true false false false false true false false false CONFERENCE_YEAR
+Glasgow, 4 0 medium false false false false false false false false false false false false false CONFERENCE_LOCATION
+Scotland, 5 0 medium false false false false false false false false false false false false false CONFERENCE_LOCATION
+UK. 6 0 few false true false false false false false false false false false false false CONFERENCE_LOCATION

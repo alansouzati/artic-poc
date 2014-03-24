@@ -1,0 +1,17 @@
+Kimmo 0 0 medium false false false new medium false AUTHOR
+Raivio 1 0 medium false false false same medium false AUTHOR
+Adaptive 0 0 medium false false false new normal false AFFILIATION
+Informatics 1 0 many false false false same normal false AFFILIATION
+Research 2 0 medium false true false same normal false AFFILIATION
+Centre 3 0 medium false true false same normal false AFFILIATION
+Helsinki 0 1 medium false false false same normal false AFFILIATION
+University 1 1 many false true false same normal false AFFILIATION
+of 2 1 few false false false same normal false AFFILIATION
+Technology 3 1 many false true false same normal false AFFILIATION
+P.O. 0 0 few false false false same normal false AFFILIATION
+Box 1 0 few false false false same normal false AFFILIATION
+5400, 2 0 medium false false false same normal false AFFILIATION
+FIN-02015 3 0 medium false false false same normal false AFFILIATION
+HUT, 4 0 few false false false same normal false AFFILIATION
+Finland 5 0 medium false true false same normal false AFFILIATION
+kimmo.raivio@hut.fi 0 0 many true false false new medium false EMAIL

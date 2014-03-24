@@ -1,0 +1,37 @@
+{
+  "title": "Interdisciplinary Application Tracks in an Undergraduate Computer Science Curriculum",
+  "authors": [
+    {
+      "name": "Curriculum Committee"
+    },
+    {
+      "name": "Mingrui Zhang",
+      "email": "mzhang@winona.edu"
+    },
+    {
+      "name": "Eugene Lundak",
+      "email": "elundak@winona.edu"
+    },
+    {
+      "name": "Chi-Cheng Lin",
+      "email": "clin@winona.edu"
+    },
+    {
+      "name": "Tim Gegg-Harrison",
+      "email": "tgeggharrison@winona.edu"
+    },
+    {
+      "name": "Joan Francioni",
+      "email": "jfrancioni@winona.edu"
+    }
+  ],
+  "venues": [{
+    "name": "SIGCSE\u002707",
+    "publisher": "ACM",
+    "date": "March 7–10",
+    "year": "2007",
+    "location": "Covington, Kentucky, USA.",
+    "isbn": "1-59593-361-1/07/0003"
+  }],
+  "affiliation": "Computer Science Department Winona State University Winona, MN 55987"
+}

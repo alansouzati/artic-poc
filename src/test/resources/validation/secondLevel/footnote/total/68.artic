@@ -1,0 +1,17 @@
+P. 0 0 few false true false false false false false false false false false false false OTHER
+Serdyukov 1 0 medium false false false false false false false false false false false false false OTHER
+et 2 0 few false false false false false false false false false false false false false OTHER
+al. 3 0 few false false false false false false false false false false false false false OTHER
+(Eds.): 4 0 medium false false false false false false false false false false false false false OTHER
+ECIR 5 0 few false true false false false false false false false false false false false CONFERENCE_NAME
+2013, 6 0 medium false false false false true false false false false true false false false CONFERENCE_YEAR
+LNCS 7 0 few false true false false false false false false false false false false false OTHER
+7814, 8 0 medium false false false false false false false false false true false false false OTHER
+pp. 9 0 few false false false false false false false false false false false false false OTHER
+392�403, 10 0 medium false false false false false false false false false true false false false OTHER
+2013. 11 0 medium false false false false true false false false false true false false false CONFERENCE_YEAR
+� 0 1 few false false false false false false false false false false false false false OTHER
+Springer-Verlag 1 1 many false false false false false false false true false false false false false PUBLISHER
+Berlin 2 1 medium false false false false false false false false false false false false false CONFERENCE_LOCATION
+Heidelberg 3 1 many false false false false false false false false false false false false false CONFERENCE_LOCATION
+2013 4 1 few false false false false true false false false false true false false false CONFERENCE_YEAR

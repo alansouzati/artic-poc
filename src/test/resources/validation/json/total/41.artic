@@ -1,0 +1,24 @@
+{
+  "title": "Temporal Summaries of News Topics",
+  "authors": [
+    {
+      "name": "James Allan",
+      "email": "allan@cs.umass.edu"
+    },
+    {
+      "name": "Rahul Gupta"
+    },
+    {
+      "name": "Vikas Khandelwal"
+    }
+  ],
+  "venues": [{
+    "name": "SIGIR’01",
+    "publisher": "ACM",
+    "date": "September 9-12",
+    "year": "2001",
+    "location": "New Orleans, Louisiana, USA.",
+    "isbn": "1-58113-331-6/01/0009"
+  }],
+  "affiliation": "Center for Intelligent Information Retrieval Department of Computer Science University of Massachusetts Amherst, MA 01003"
+}

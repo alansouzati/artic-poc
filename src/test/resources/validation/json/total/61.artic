@@ -1,0 +1,30 @@
+{
+    "title": "Semi-Supervised Learning of Attribute-Value Pairs from Product Descriptions",
+    "authors": [
+        {
+            "name": "Katharina Probst",
+            "affiliation": "Accenture Technology Labs, Chicago, IL, USA"
+        },
+        {
+            "name": "Rayid Ghani",
+            "affiliation": "Accenture Technology Labs, Chicago, IL, USA"
+        },
+        {
+            "name": "Marko Krema",
+            "affiliation": "Accenture Technology Labs, Chicago, IL, USA"
+        },
+        {
+            "name": "Andrew Fano",
+            "affiliation": "Accenture Technology Labs, Chicago, IL, USA"
+        },
+        {
+            "name": "Yan Liu",
+            "affiliation": "Carnegie Mellon University, Pittsburgh, PA, USA"
+        }
+    ],
+    "venues": [
+        {
+            "name": "IJCAI-07"
+        }
+    ]
+}

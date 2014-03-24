@@ -1,0 +1,20 @@
+{
+  "title": "Analysis of Soft Handover Measurements in 3G Network",
+  "authors": [
+    {
+      "name": "Kimmo Raivio",
+      "email": "kimmo.raivio@hut.fi"
+    }
+  ],
+  "venues": [
+    {
+      "name": "MSWIM’06",
+      "publisher": "ACM",
+      "date": "October 2–6",
+      "year": "2006",
+      "location": "Torremolinos, Malaga, Spain",
+      "isbn": "1-59593-477-4/06/0010"
+    }
+  ],
+  "affiliation": "Adaptive Informatics Research Centre Helsinki University of Technology P.O. Box 5400, FIN-02015 HUT, Finland"
+}

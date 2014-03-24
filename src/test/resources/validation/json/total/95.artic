@@ -1,0 +1,36 @@
+{
+    "title": "A Geographical Analysis of Knowledge Production in Computer Science",
+    "authors": [
+        {
+            "name": "Guilherme Vale Menezes",
+			"email": "gmenezes@dcc.ufmg.br"
+        },
+		{
+            "name": "Nivio Ziviani",
+			"email": "nivio@dcc.ufmg.br"
+        },
+		{
+            "name": "Alberto H. F. Laender",
+			"email": "laender@dcc.ufmg.br"
+        },
+		{
+            "name": "Virgílio Almeida",
+			"email": "virgilio@dcc.ufmg.br"
+        }
+    ],
+    "venues": [
+	    {
+			"name": "WWW MADRID!",
+			"year": "2009"
+		},
+        {
+            "name": "WWW",
+            "publisher": "ACM",
+            "date": "April 20–24",
+            "location": "Madrid, Spain",
+            "year": "2009",
+            "isbn": "978-1-60558-487-4/09/04"
+        }
+    ],
+	"affiliation": "Computer Science Department Federal University of Minas Gerais 31270-901 Belo Horizonte, Brazil"
+}

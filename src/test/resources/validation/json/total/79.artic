@@ -1,0 +1,27 @@
+{
+  "title": "Exploring Factors that Influence Computer Science Introductory Course Students to Persist in the Major",
+  "authors": [
+    {
+      "name": "Lecia J. Barker",
+      "email": "lecia@ischool.utexas.edu",
+      "affiliation": "School of Information University of Texas Austin, Texas 78712 USA +1 512 471 3821"
+    },
+    {
+      "name": "Charlie McDowell",
+      "email": "charlie@soe.ucsc.edu",
+      "affiliation": "Computer Science Department University of California Santa Cruz, CA 95064 USA +1 831 459 4772"
+    },
+    {
+      "name": "Kimberly Kalahar",
+      "email": "kalahark@colorado.edu",
+      "affiliation": "National Center for Women \u0026 IT University of Colorado Boulder, CO 80309 USA +1 303 735 6004"
+    }
+  ],
+  "venues": [
+    {
+      "name": "SIGCSE Bulletin",
+      "publisher": "ACM",
+      "year": "2009"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Current issues confronting well-established computer-assisted child exploitation and computer crime task forces",
+  "authors": [
+    {
+      "name": "Monique"
+    },
+    {
+      "name": "Mattei Ferraro"
+    },
+    {
+      "name": "Andrew Russell"
+    }
+  ],
+  "venues": [{
+    "name": "Digital Investigation",
+    "volume": "1",
+    "year": "2004",
+    "page": "7 - 15"
+  },
+  {
+    "publisher": "Elsevier",
+    "year": "2004",
+    "issn": "1742-2876",
+    "doi": "doi:10.1016/j.diin.2004.01.004"
+  }],
+  "links": "www.elsevier.com/locate/diin",
+  "emails": [
+    "mfer.ccu@snet.net"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "You Are Where You Tweet: A Content-Based Approach to Geo-locating Twitter Users",
+  "authors": [
+    {
+      "name": "Zhiyuan Cheng",
+      "email": "zcheng@cse.tamu.edu",
+      "affiliation": "Department of Computer Science and Engineering Texas A\u0026M University College Station, TX, USA"
+    },
+    {
+      "name": "James Caverlee",
+      "email": "caverlee@cse.tamu.edu",
+      "affiliation": "Department of Computer Science and Engineering Texas A\u0026M University College Station, TX, USA"
+    },
+    {
+      "name": "Kyumin Lee",
+      "email": "kyumin@cse.tamu.edu",
+      "affiliation": "Department of Computer Science and Engineering Texas A\u0026M University College Station, TX, USA"
+    }
+  ],
+  "venues": [
+    {
+      "name": "CIKM’10",
+      "publisher": "ACM",
+      "date": "October 26–30",
+      "year": "2010",
+      "location": "Toronto, Ontario, Canada",
+      "isbn": "978-1-4503-0099-5/10/10"
+    }
+  ]
+}

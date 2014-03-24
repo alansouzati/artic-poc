@@ -1,0 +1,33 @@
+{
+    "title": "A Model-Driven Framework for ETL Process Development",
+    "authors": [
+        {
+            "name": "Zineb El Akkaoui",
+            "email": "zelakkao@ulb.ac.be",
+            "affiliation": "Dept. of Computer and Decision Engineering Université Libre de Bruxelles, Belgium"
+        },
+        {
+            "name": "Esteban Zimányi",
+            "email": "ezimanyi@ulb.ac.be",
+            "affiliation": "Dept. of Computer and Decision Engineering Université Libre de Bruxelles, Belgium"
+        },
+        {
+            "name": "Jose-Norberto Mazón",
+            "email": "jnmazon@dlsi.ua.es",
+            "affiliation": "Dep. of Software and Computing Systems University of Alicante, Spain"
+        },
+        {
+            "name": "Juan Trujillo",
+            "email": "jtrujillo@dlsi.ua.es",
+            "affiliation": "Dep. of Software and Computing Systems University of Alicante, Spain"
+        }
+    ],
+    "venues": [
+        {
+            "name": "DOLAP’11",
+            "date": "October 28",
+            "year": "2011",
+            "location": "Glasgow, Scotland, UK."
+        }
+    ]
+}

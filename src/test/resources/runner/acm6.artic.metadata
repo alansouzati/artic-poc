@@ -1,0 +1,22 @@
+{
+  "title": "CS 0.5: A Better Approach to Introductory Computer Science for Majors",
+  "authors": [
+    {
+      "name": "Robert H. Sloan",
+      "email": "sloan@uic.edu"
+    },
+    {
+      "name": "Patrick Troy",
+      "email": "troy@uic.edu"
+    }
+  ],
+  "venues": [{
+    "name": "SIGCSE’08",
+    "publisher": "ACM ACM",
+    "date": "March 12–15",
+    "year": "2008",
+    "location": "Portland, Oregon, USA.",
+    "isbn": "978-1-59593-947-0/08/0003"
+  }],
+  "affiliation": "Dept. of Computer Science, University of Illinois at Chicago Chicago, IL, USA"
+}

@@ -1,0 +1,34 @@
+{
+    "title": "The Role of Query Sessions in Extracting Instance Attributes fromWeb Search Queries",
+    "authors": [
+        {
+            "name": "Marius Pasca",
+            "email": "mars@google.com"
+        },
+        {
+            "name": "Enrique Alfonseca",
+            "email": "ealfonseca@google.com"
+        },
+        {
+            "name": "Enrique Robledo-Arnuncio",
+            "email": "era@google.com"
+        },
+        {
+            "name": "Ricardo Martin-Brualla",
+            "email": "rmbrualla@google.com"
+        },
+        {
+            "name": "Keith Hall",
+            "email": "kbhall@google.com"
+        }
+    ],
+    "venues": [
+        {
+            "name": "ECIR",
+            "publisher": "Springer-Verlag",
+            "year": "2010",
+            "location": "Berlin Heidelberg"
+        }
+    ],
+    "affiliation": "Google Inc."
+}

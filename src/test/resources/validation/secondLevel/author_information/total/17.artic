@@ -1,0 +1,15 @@
+Adam 0 0 few false false false new medium false AUTHOR
+N. 1 0 few false false false same medium false AUTHOR
+Joinson 2 0 medium false false false same medium false AUTHOR
+School 0 1 medium false true false same medium false AFFILIATION
+of 1 1 few false false false same medium false AFFILIATION
+Management 2 1 many false false false same medium false AFFILIATION
+University 0 2 many false true false same medium false AFFILIATION
+of 1 2 few false false false same medium false AFFILIATION
+Bath 2 2 few false false false same medium false AFFILIATION
+Bath 0 3 few false false false new normal false AFFILIATION
+United 0 4 medium false false false new medium false AFFILIATION
+Kingdom 1 4 medium false false false same medium false AFFILIATION
+BA2 0 5 few false false false same medium false AFFILIATION
+7AA 1 5 few false false false same medium false AFFILIATION
+A.Joinson@Bath.ac.uk 0 6 many true false false same medium false EMAIL

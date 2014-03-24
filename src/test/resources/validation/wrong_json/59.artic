@@ -1,0 +1,43 @@
+{
+  "title": "Growing Parallel Paths for Entity-Page Discovery",
+  "authors": [
+    {
+      "name": "Tim Weninger Rick",
+      "email": "weninge1@illinois.edu"
+    },
+    {
+      "name": "Fabio Fumarola Jiawei",
+      "email": "ffumarola@di.uniba.it"
+    },
+    {
+      "name": "Cindy Xide Lin",
+      "email": "xidelin2@illinois.edu"
+    },
+    {
+      "name": "Barber",
+      "email": "barber5@illinois.edu"
+    },
+    {
+      "name": "Han",
+      "email": "hanj@illinois.edu"
+    },
+    {
+      "name": "Donato Malerba",
+      "email": "malerba@di.uniba.it"
+    }
+  ],
+  "venues": [
+    {
+      "name": "WWW 2011 – Poster March 28–April 1, 2011, Hyderabad, India"
+    },
+    {
+      "name": "author/owner(s). WWW",
+      "publisher": "ACM",
+      "date": "March 28–April 1",
+      "year": "2011",
+      "location": "Hyderabad, India",
+      "isbn": "978-1-4503-0637-9/11/03"
+    }
+  ],
+  "affiliation": "University of Illinois at Urbana-Champaign † Università degli Studi di Bari “Aldo Moro”"
+}

@@ -1,0 +1,25 @@
+{
+    "title": "VLFeat - An open and portable library of computer vision algorithms",
+    "authors": [
+        {
+            "name": "Andrea Vedaldi",
+			"affiliation": "Department of Engineering Science Oxford University Oxford, UK",
+            "email": "vedaldi@robots.ox.ac.uk"
+        },
+		{
+            "name": "Brian Fulkerson",
+			"affiliation": "Computer Science Department University of California at Los Angeles Los Angeles, CA, USA",
+            "email": "bfulkers@cs.ucla.edu"
+        }
+    ],
+    "venues": [
+        {
+            "name": "MM’10",
+            "publisher": "ACM",
+            "date": "October 25–29",
+            "location": "Firenze, Italy",
+            "year": "2010",
+            "isbn": "978-1-60558-933-6/10/10"
+        }
+    ]
+}

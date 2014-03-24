@@ -1,0 +1,39 @@
+{
+  "title": "An expressive aspect language for system applications with Arachne",
+  "authors": [
+    {
+      "name": "Remi Douence",
+      "email": "douence@emn.fr"
+    },
+    {
+      "name": "Thomas Fritz",
+      "email": "tfritz@emn.fr"
+    },
+    {
+      "name": "Nicolas Loriant",
+      "email": "nloriant@emn.fr"
+    },
+    {
+      "name": "Jean-Marc Menaud",
+      "email": "jmenaud@emn.fr"
+    },
+    {
+      "name": "Marc Segura-Devillechaise",
+      "email": "msegura@emn.fr"
+    },
+    {
+      "name": "Mario Sudholt",
+      "email": "sudholt@emn.fr"
+    }
+  ],
+  "venues": [
+    {
+	  "name": "AOSD’05",	
+      "publisher": "ACM",
+      "year": "2005",
+	  "location": "Chicago",
+	  "date": "16-18th March"
+    }
+  ],
+  "affiliation": "OBASCO project ´Ecole des Mines de Nantes/INRIA 4 rue Alfred Kastler 44307 Nantes Cedex 3, France"
+}

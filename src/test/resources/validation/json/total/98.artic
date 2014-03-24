@@ -1,0 +1,37 @@
+{
+    "title": "Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices",
+    "authors": [
+        {
+            "name": "Shivaram Venkataraman",
+			"email": "shivaram@cs.berkeley.edu"
+        },
+		{
+            "name": "Erik Bodzsar",
+            "email": "erik.bodzsar@hp.com"
+        },
+		{
+            "name": "Indrajit Roy",
+            "email": "indrajitr@hp.com"
+        },
+		{
+            "name": "Alvin AuYoung",
+            "email": "alvina@hp.com"
+        },
+		{
+            "name": "Robert S. Schreiber",
+            "email": "rob.schreiber@hp.com"
+        }
+		
+    ],
+    "venues": [
+        {
+            "name": "Eurosys’13",
+            "publisher": "ACM",
+            "date": "April 15-17",
+            "location": "Prague, Czech Republic",
+            "year": "2013",
+            "isbn": "978-1-4503-1994-2/13/04"
+        }
+    ],
+	"affiliation": "1UC Berkeley, 2University of Chicago, HP Labs"
+}

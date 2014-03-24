@@ -1,0 +1,26 @@
+{
+  "title": "Discovering Evolutionary Theme Patterns from Text - An Exploration of Temporal Text Mining",
+  "authors": [
+    {
+      "name": "Qiaozhu Mei",
+	  "affiliation": "Department of Computer Science University of Illinois at Urbana Champaign"
+    },
+    {
+      "name": "ChengXiang Zhai",
+	  "affiliation": "Department of Computer Science University of Illinois at Urbana Champaign"
+    }
+  ],
+  "venues": [
+     {
+       "name": "Research Track Paper"
+     },
+     {
+       "name": "KDD’05",
+       "publisher": "ACM",
+       "date": "August 21–24",
+       "year": "2005",
+       "location": "Chicago, Illinois, USA",
+       "isbn": "1-59593-135-X/05/0008"
+     }
+  ]
+}

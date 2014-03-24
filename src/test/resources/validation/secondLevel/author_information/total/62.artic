@@ -1,0 +1,14 @@
+Marius 0 0 medium false false false new normal false AUTHOR
+Pas¸ca, 1 0 medium false false false same normal false AUTHOR
+Enrique 2 0 medium false false false same normal false AUTHOR
+Alfonseca, 3 0 many false false false same normal false AUTHOR
+Enrique 4 0 medium false false false same normal false AUTHOR
+Robledo-Arnuncio, 5 0 many false false false same normal false AUTHOR
+Ricardo 0 1 medium false false false same normal false AUTHOR
+Martin-Brualla?, 1 1 many false false false same normal false AUTHOR
+and 2 1 few false false false same normal false AUTHOR
+Keith 3 1 medium false false false same normal false AUTHOR
+Hall 4 1 few false false false same normal false AUTHOR
+Google 0 0 medium false false false same normal false AFFILIATION
+Inc. 1 0 few false false false same normal false AFFILIATION
+{mars,ealfonseca,era,rmbrualla,kbhall}@google.com 0 0 many true false false same normal false EMAIL

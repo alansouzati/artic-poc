@@ -1,0 +1,34 @@
+#unigram
+# WORD
+U0:%x[0,0]
+# position withn the line
+U1:%x[0,1]
+# line identifier
+U2:%x[0,2]
+# number of letters
+U3:%x[0,3]
+# possible email
+U4:%x[0,4]
+# possible affiliation
+U5:%x[0,5]
+# website
+U6:%x[0,6]
+# format
+U7:%x[0,7]
+# font size
+U8:%x[0,8]
+# possible email format
+U9:%x[0,9]
+
+#format window
+U10:%x[-1,7]
+
+#affiliation window
+U11:%x[1,5]
+U12:%x[2,5]
+
+#format and font size
+U13:%x[0,7]/%x[0,8]
+
+#Automatically create all bigram features
+B

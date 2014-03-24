@@ -1,0 +1,30 @@
+{
+  "title": "Uncovering Social Spammers: Social Honeypots + Machine Learning",
+  "authors": [
+    {
+      "name": "Kyumin Lee",
+      "email": "kyumin@cse.tamu.edu",
+      "affiliation": "Department of Computer Science and Engineering Texas A\u0026M University College Station, TX, USA"
+    },
+    {
+      "name": "James Caverlee",
+      "email": "caverlee@cse.tamu.edu",
+      "affiliation": "Department of Computer Science and Engineering Texas A\u0026M University College Station, TX, USA"
+    },
+    {
+      "name": "Steve Webb",
+      "email": "steve.webb@gmail.com",
+      "affiliation": "College of Computing Georgia Institute of Technology Atlanta, GA, USA"
+    }
+  ],
+  "venues": [
+    {
+      "name": "SIGIR’10",
+      "publisher": "ACM",
+      "date": "July 19–23",
+      "year": "2010",
+      "location": "Geneva, Switzerland",
+      "isbn": "978-1-60558-896-4/10/07"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "A Pseudo Random Coordinated Scheduling Algorithm for Bluetooth Scatternets",
+  "authors": [
+    {
+      "name": "Andras Racz",
+      "email": "andras.racz@eth.ericsson.se"
+    },
+    {
+      "name": "Gyorgy Miklos"
+    },
+    {
+      "name": "Ferenc Kubinszky"
+    },
+    {
+      "name": "Andras Valko"
+    }
+  ],
+  "venues": [
+    {
+	  "name": "MobiHOC",
+      "publisher": "ACM",
+      "year": "2001",
+	  "location": "Long Beach, CA, USA",
+      "isbn": "1-58113-390-1/01/10"
+    }
+  ],
+  "affiliation": "Traffic Analysis and Network Performance Lab., Ericsson Research Laborc 1, 1037 Budapest, Hungary Ph: +36-1-4377621, Fax: +36-1-4377767"
+}

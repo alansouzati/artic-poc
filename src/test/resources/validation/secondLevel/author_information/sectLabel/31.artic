@@ -1,0 +1,16 @@
+Omri 0 0 few false false false new normal false AUTHOR
+Abend' 1 0 medium false false false same normal false AUTHOR
+Roi 2 0 few false false false same normal false AUTHOR
+Reichart2 3 0 medium false false false same normal false AUTHOR
+Ari 4 0 few false false false same normal false AUTHOR
+Rappoport' 5 0 many false false false same normal false AUTHOR
+'Institute 0 0 many false true false same normal false AFFILIATION
+of 1 0 few false false false same normal false AFFILIATION
+Computer 2 0 medium false true false same normal false AFFILIATION
+Science, 3 0 medium false true false same normal false AFFILIATION
+2ICNC 4 0 medium false false false same normal false AFFILIATION
+Hebrew 0 1 medium false false false same normal false AFFILIATION
+University 1 1 many false true false same normal false AFFILIATION
+of 2 1 few false false false same normal false AFFILIATION
+Jerusalem 3 1 medium false false false same normal false AFFILIATION
+{omria01|roiri|arir}@cs.huji.ac.il 0 2 many true false false same normal false EMAIL

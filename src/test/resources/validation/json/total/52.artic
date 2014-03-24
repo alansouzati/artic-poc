@@ -1,0 +1,19 @@
+{
+    "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews",
+    "authors": [
+        {
+            "name": "Peter D. Turney",
+            "email": "peter.turney@nrc.ca",
+            "affiliation": "Institute for Information Technology National Research Council of Canada Ottawa, Ontario, Canada, K1A 0R6"
+        }
+    ],
+    "venues": [
+        {
+            "name": "Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics (ACL)",
+            "date": "July",
+            "year": "2002",
+            "location": "Philadelphia",
+			"page": "417-424"
+        }
+    ]
+}

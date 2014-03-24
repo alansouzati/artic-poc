@@ -1,0 +1,25 @@
+{
+  "title": "An Intensional Approach to the Specification of Test Cases for Database Applications",
+  "authors": [
+    {
+      "name": "David Willmor",
+      "email": "d.willmor@cs.manchester.ac.uk",
+      "affiliation": "School of Computer Science University of Manchester Oxford Road, Manchester, UK"
+    },
+    {
+      "name": "Suzanne M. Embury",
+      "email": "s.m.embury@cs.manchester.ac.uk",
+      "affiliation": "School of Computer Science University of Manchester Oxford Road, Manchester, UK"
+    }
+  ],
+  "venues": [
+    {
+      "name": "ICSE’06",
+      "publisher": "ACM",
+      "date": "May 20–28",
+      "year": "2006",
+      "location": "Shanghai, China",
+      "isbn": "1-59593-085-X/06/0005"
+    }
+  ]
+}

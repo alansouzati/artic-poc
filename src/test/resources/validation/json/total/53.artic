@@ -1,0 +1,35 @@
+{
+    "title": "QoS Guaranteed Resource Block Allocation Algorithm in LTE Downlink",
+    "authors": [
+        {
+            "name": "Liqun Zhao"
+        },
+        {
+            "name": "Yang Qin"
+        },
+        {
+            "name": "Maode Ma"
+        },
+        {
+            "name": "Xiaoxiong Zhong"
+        },
+        {
+            "name": "Li Li"
+        }
+    ],
+    "venues": [
+        {
+           "name": "7th International ICST Conference on Communications and Networking in China (CHINACOM)",
+           "year": "2012"
+        },
+        {
+            "publisher": "IEEE",
+            "year": "2012",
+            "isbn": "978-1-4673-2699-5/12"
+        }
+    ],
+    "affiliation": "Harbin Institute of Technology Shenzhen Graduate School, Shenzhen, China Nanyang Technological University, Singapore",
+    "emails": [
+        "yqinsg@gmail.com"
+    ]
+}

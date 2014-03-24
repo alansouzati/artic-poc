@@ -1,0 +1,34 @@
+{
+  "title": "2-Source Dispersers for Sub-Polynomial Entropy and Ramsey Graphs Beating the Frankl-Wilson Construction",
+  "authors": [
+    {
+      "name": "Boaz Barak",
+      "email": "boaz@cs.princeton.edu",
+      "affiliation": "Department of Computer Science Princeton University"
+    },
+    {
+      "name": "Ronen Shaltiel",
+      "email": "ronen@cs.haifa.ac.il",
+      "affiliation": "University of Haifa Mount Carmel Haifa, Israel"
+    },
+    {
+      "name": "Anup Rao",
+      "email": "arao@cs.utexas.edu",
+      "affiliation": "Department of Computer Science University of Texas at Austin"
+    },
+    {
+      "name": "Avi Wigderson",
+      "email": "avi@math.ias.edu",
+      "affiliation": "Institute for Advanced Study Princeton New Jersey"
+    }
+  ],
+  "venues": [
+    {
+      "name": "STOC’06, May21–23",
+      "publisher": "ACM",
+      "year": "2006",
+      "location": "Seattle, Washington, USA",
+      "isbn": "1-59593-134-1/06/0005"
+    }
+  ]
+}

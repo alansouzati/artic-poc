@@ -1,0 +1,34 @@
+{
+  "title": "Temporal Corpus Summarization Using Submodular Word Coverage",
+  "authors": [
+    {
+      "name": "Ruben Sipos",
+      "email": "rs@cs.cornell.edu",
+	  "affiliation": "Dept. of Computer Science Cornell University Ithaca, NY 14853 USA"
+    },
+    {
+      "name": "Adith Swaminathan",
+      "email": "adith@cs.cornell.edu",
+	  "affiliation": "Dept. of Computer Science Cornell University Ithaca, NY 14853 USA"
+    },
+	{
+      "name": "Pannaga Shivaswamy",
+      "email": "pannaga@cs.cornell.edu",
+	  "affiliation": "Dept. of Computer Science Cornell University Ithaca, NY 14853 USA"
+    },
+	{
+      "name": "Thorsten Joachims",
+      "email": "tj@cs.cornell.edu",
+	  "affiliation": "Dept. of Computer Science Cornell University Ithaca, NY 14853 USA"
+    }
+  ],
+  "venues": [{
+    "name": "CIKM’12",
+    "publisher": "ACM",
+    "date": "October 29–November 2",
+    "year": "2012",
+    "location": "Maui, HI, USA.",
+    "isbn": "978-1-4503-1156-4/12/10"
+  }]
+  
+}

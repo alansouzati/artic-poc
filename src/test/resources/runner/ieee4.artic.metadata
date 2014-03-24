@@ -1,0 +1,40 @@
+{
+  "title": "Educational Practice of Computer Science in Medical Imaging",
+  "authors": [
+    {
+      "name": "ZHANG Xue-jun",
+      "affiliation": "Medical Imaging Department Tianjin Medical University Tianjin, China"
+    },
+    {
+      "name": "ZHANG Yun-ting",
+      "affiliation": "Medical Imaging Department Tianjin Medical University Tianjin, China Medical Imaging Department Tianjin Medical University Tianjin, China"
+    },
+    {
+      "name": "GUO Li",
+      "affiliation": "Medical Imaging Department Tianjin Medical University Tianjin, China Medical Imaging Department Tianjin Medical University Tianjin, China"
+    },
+    {
+      "name": "GUO Hong",
+      "affiliation": "Medical Imaging Department Tianjin Medical University Tianjin, China"
+    },
+    {
+      "name": "LI Ying",
+      "affiliation": "Medical Imaging Department Tianjin Medical University"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Second International Workshop on Education Technology and Computer Science",
+      "year": "2010"
+    },
+    {
+      "publisher": "IEEE",
+      "year": "2010",
+      "isbn": "978-0-7695-3987-4/10",
+      "doi": "10.1109/ETCS.2010.162"
+    }
+  ],
+  "emails": [
+    "ydzhangxj@126.com"
+  ]
+}

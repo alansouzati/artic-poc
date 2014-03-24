@@ -1,0 +1,32 @@
+{
+    "title": "Supporting the Automatic Construction of Entity Aware Search Engines",
+    "authors": [
+        {
+            "name": "Lorenzo Blanco",
+            "email": "blanco@dia.uniroma3.it"
+        },
+        {
+            "name": "Valter Crescenzi",
+            "email": "crescenz@dia.uniroma3.it"
+        },
+        {
+            "name": "Paolo Merialdo",
+            "email": "merialdo@dia.uniroma3.it"
+        },
+        {
+            "name": "Paolo Papotti",
+            "email": "papotti@dia.uniroma3.it"
+        }
+    ],
+    "venues": [
+        {
+            "name": "WIDM’08",
+            "publisher": "ACM",
+            "date": "October 30",
+            "year": "2008",
+            "location": "Napa Valley, California, USA.",
+            "isbn": "978-1-60558-260-3/08/10"
+        }
+    ],
+    "affiliation": "Dipartimento di Informatica e Automazione, Università degli Studi Roma Tre - Italy"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "TALC: Using Desktop Graffiti to Fight Software Vulnerability",
+  "authors": [
+    {
+      "name": "Kandha Sankarapandian",
+      "email": "kandha@cc.gatech.edu"
+    },
+    {
+      "name": "Travis Little",
+      "email": "tlittle@cc.gatech.edu"
+    },
+    {
+      "name": "W. Keith Edwards",
+      "email": "keith@cc.gatech.edu"
+    }
+  ],
+  "venues": [
+    {
+      "name": "CHI",
+      "publisher": "ACM",
+      "date": "April 5–10",
+      "year": "2008",
+      "location": "Florence, Italy",
+      "isbn": "978-1-60558-011-1/08/04"
+    }
+  ],
+  "affiliation": "Georgia Institute of Technology 85 Fifth Street NW, Atlanta, GA 30308, USA."
+}

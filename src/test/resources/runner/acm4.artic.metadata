@@ -1,0 +1,50 @@
+{
+  "title": "A Case for Smaller Class Size with Integrated Lab for Introductory Computer Science",
+  "authors": [
+    {
+      "name": "Kristy"
+    },
+    {
+      "name": "Elizabeth"
+    },
+    {
+      "name": "Rachael S. Dwight",
+      "email": "rsdwight@ncsu.edu",
+      "affiliation": "Computer Science"
+    },
+    {
+      "name": "Carolyn S. Miller",
+      "email": "miller@ncsu.edu",
+      "affiliation": "Computer Science"
+    },
+    {
+      "name": "C. Dianne Raubenheimer",
+      "email": "dianne_raubenheimer@ncsu.edu",
+      "affiliation": "Engineering Academic Affairs"
+    },
+    {
+      "name": "Matthias F. Stallmann",
+      "email": "matt_stallmann@ncsu.edu",
+      "affiliation": "Computer Science"
+    },
+    {
+      "name": "Mladen A. Vouk",
+      "email": "vouk@ncsu.edu",
+      "affiliation": "Computer Science"
+    },
+    {
+      "name": "Boyer",
+      "email": "keboyer@ncsu.edu",
+      "affiliation": "Computer Science"
+    }
+  ],
+  "venues": [{
+    "name": "SIGCSE’07",
+    "publisher": "ACM",
+    "date": "March 7–10",
+    "year": "2007",
+    "location": "Covington, Kentucky, USA.",
+    "isbn": "1-59593-361-1/07/0003"
+  }],
+  "affiliation": "North Carolina State University"
+}

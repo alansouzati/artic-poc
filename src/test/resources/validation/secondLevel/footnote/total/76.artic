@@ -1,0 +1,8 @@
+SIGKDD 0 0 medium false true false false false false false false false false false false false CONFERENCE_NAME
+Explorations 1 0 many false false false false false false false false false false false false false CONFERENCE_NAME
+Volume 2 0 medium false false false false false false false false false false false false false OTHER
+11, 3 0 few false false false false false false false false false true false false false OTHER
+Issue 4 0 medium false false false false false false false false false false false false false OTHER
+1 5 0 few false false false false false false false false false true false false false OTHER
+Page 6 0 few false false false false false false false false false false false false false OTHER
+10 7 0 few false false false false false false false false false true false false false OTHER

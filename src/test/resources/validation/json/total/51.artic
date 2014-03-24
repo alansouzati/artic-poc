@@ -1,0 +1,28 @@
+{
+    "title": "Predicting Elections with Twitter: What 140 Characters Reveal about Political Sentiment",
+    "authors": [
+        {
+            "name": "Andranik Tumasjan"
+        },
+        {
+            "name": "Timm O. Sprenger"
+        },
+        {
+            "name": "Philipp G. Sandner"
+        },
+        {
+            "name": "Isabell M. Welpe"
+        }
+    ],
+    "venues": [
+        {
+            "name": "Proceedings of the Fourth International AAAI Conference on Weblogs and Social Media"
+        },
+        {
+            "name": "Association for the Advancement of Artificial Intelligence",
+            "year": "2010"
+        }
+
+    ],
+    "affiliation": "Technische Universit�t M�nchen Lehrstuhl f�r Betriebswirtschaftslehre Strategie und Organisation Leopoldstra�e 139, 80804 Munich, Germany"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Large-Scale Machine Learning with Stochastic Gradient Descent",
+  "authors": [
+    {
+      "name": "Leon Bottou",
+	  "email": "leon@bottou.org"
+    }
+  ],
+  "affiliation": "NEC Labs America, Princeton NJ 08542, USA"
+}

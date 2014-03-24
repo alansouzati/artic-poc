@@ -1,0 +1,21 @@
+{
+  "title": "Learning Theories in Computer Science Education",
+  "authors": [
+    {
+      "name": "Jess Ubaldo Quevedo-Torrero"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Sixth International Conference on Information Technology: New Generations",
+      "year": "2009"
+    },
+    {
+      "publisher": "IEEE",
+      "year": "2009",
+      "isbn": "978-0-7695-3596-8/09",
+      "doi": "10.1109/ITNG.2009.294"
+    }
+  ],
+  "affiliation": "University of Wisconsin-Parkside Department of Computer Science"
+}

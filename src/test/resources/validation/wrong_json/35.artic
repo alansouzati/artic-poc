@@ -1,0 +1,26 @@
+{
+  "title": "Exploiting Heterogeneous Treebanks for Parsing",
+  "authors": [
+    {
+      "name": "Zheng-Yu Niu",
+      "email": "niuzhengyu@rdc.toshiba.com.cn"
+    },
+    {
+      "name": "Haifeng Wang",
+      "email": "wanghaifeng@rdc.toshiba.com.cn"
+    },
+    {
+      "name": "Hua Wu",
+      "email": "wuhua@rdc.toshiba.com.cn"
+    }
+  ],
+  "venues": [
+    {
+      "name": "1 Here we assume the existence of two treebanks. 46 Proceedings of the 47th Annual Meeting of the ACL and the 4th IJCNLP of the AFNLP",
+      "date": "2-7 August",
+      "year": "2009",
+      "location": "Singapore"
+    }
+  ],
+  "affiliation": "Toshiba (China) Research and Development Center 5/F., Tower W2, Oriental Plaza, Beijing, 100738, China"
+}

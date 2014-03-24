@@ -1,0 +1,40 @@
+{
+  "title": "The WEKA Data Mining Software: An Update",
+  "authors": [
+    {
+      "name": "Mark Hall",
+      "email": "mhall@pentaho.com",
+	  "affiliation": "Pentaho Corporation Suite 340, 5950 Hazeltine National Dr. Orlando, FL 32822, USA"
+    },
+    {
+      "name": "Eibe Frank",
+      "email": "eibe@cs.waikato.ac.nz",
+      "affiliation": "Department of Computer Science University of Waikato Hamilton, New Zealand"
+    },
+    {
+      "name": "Geoffrey Holmes",
+	  "email": "geoff@cs.waikato.ac.nz",
+      "affiliation": "Department of Computer Science University of Waikato Hamilton, New Zealand"
+    },
+    {
+      "name": "Bernhard Pfahringer",
+      "email": "bernhard@cs.waikato.ac.nz",
+      "affiliation": "Department of Computer Science University of Waikato Hamilton, New Zealand"
+    },
+    {
+      "name": "Peter Reutemann",
+	  "email": "fracpete@cs.waikato.ac.nz",
+      "affiliation": "Department of Computer Science University of Waikato Hamilton, New Zealand"
+    },
+    {
+      "name": "Ian H. Witten",
+	  "email": "ihw@cs.waikato.ac.nz",
+      "affiliation": "Department of Computer Science University of Waikato Hamilton, New Zealand"
+    }
+  ],
+  "venues": [
+    {
+	  "name": "SIGKDD Explorations"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Conversation Pivots and Double Pivots",
+  "authors": [
+    {
+      "name": "Daniel Xiaodan Zhou",
+      "email": "mrzhou@umich.edu"
+    },
+    {
+      "name": "Nathan Oostendorp",
+      "email": "oostendo@umich.edu"
+    },
+    {
+      "name": "Michael Hess",
+      "email": "mlhess@umich.edu"
+    },
+    {
+      "name": "Paul Resnick",
+      "email": "presnick@umich.edu"
+    }
+  ],
+  "venues": [
+    {
+      "name": "CHI",
+      "publisher": "ACM",
+      "date": "April 5–10",
+      "year": "2008",
+      "location": "Florence, Italy",
+      "isbn": "978-1-60558-011-1/08/04"
+    }
+  ],
+  "affiliation": "CommunityLab* University of Michigan School of Information Ann Arbor, MI 48109"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "A Distributed 3D Graphics Library",
+  "authors": [
+    {
+      "name": "Blair MacIntyre",
+      "email": "bm@cs.columbia.edu"
+    },
+    {
+      "name": "Steven Feiner",
+      "email": "feiner@cs.columbia.edu"
+    }
+  ],
+  "affiliation": "Department of Computer Science Columbia University"
+}

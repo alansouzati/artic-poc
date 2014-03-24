@@ -1,0 +1,45 @@
+{
+  "title": "A New Approach to Intranet Search Based on Information Extraction",
+  "authors": [
+    {
+      "name": "Hang Li",
+      "email": "hangli@microsoft.com",
+      "affiliation": "Microsoft Research Asia 5F Sigma Center No.49 Zhichun Road, Beijing, China, 100080"
+    },
+    {
+      "name": "Yunbo Cao",
+      "email": "yucao@microsoft.com",
+      "affiliation": "Microsoft Research Asia 5F Sigma Center No.49 Zhichun Road, Beijing, China, 100080"
+    },
+    {
+      "name": "Jun Xu",
+      "email": "nkxj@yahoo.com.cn",
+      "affiliation": "College of Software Nankai University No.94 Weijin Road, Tianjin, China, 300071"
+    },
+    {
+      "name": "Yunhua Hu",
+      "email": "yunhuahu@mail.xjtu.edu.cn",
+      "affiliation": "Dept. of Computer Science Xi'an Jiaotong University No 28, West Xianning Road, Xi'an, China, 710049"
+    },
+    {
+      "name": "Shenjie Li",
+      "email": "lisj@cs.ust.hk",
+      "affiliation": "Dept. of Computer Science Hong Kong University of Science and Technology Kowloon, Hong Kong, China"
+    },
+    {
+      "name": "Dmitriy Meyerzon",
+      "email": "dmitriym@microsoft.com",
+      "affiliation": "Microsoft Corporation One Microsoft Way, Redmond, WA, USA, 98052"
+    }
+  ],
+  "venues": [
+    {
+      "name": "CIKM\u002705",
+      "publisher": "ACM",
+      "date": "October 31—November 5",
+      "year": "2005",
+      "location": "Bremen, Germany",
+      "isbn": "1-58113-000-0/00/0004"
+    }
+  ]
+}

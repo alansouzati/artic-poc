@@ -1,0 +1,28 @@
+{
+  "title": "Machine Learning in Computer Forensics (and the Lessons Learned from Machine Learning in Computer Security)",
+  "authors": [
+    {
+      "name": "Davide Ariu",
+      "email": "davide.ariu@diee.unica.it"
+    },
+    {
+      "name": "Giorgio Giacinto",
+      "email": "giacinto@diee.unica.it"
+    },
+    {
+      "name": "Fabio Roli",
+      "email": "roli@diee.unica.it"
+    }
+  ],
+  "venues": [
+    {
+      "name": "AISec’11",
+      "publisher": "ACM",
+      "date": "October 21",
+      "year": "2011",
+      "location": "Chicago, Illinois, USA",
+      "isbn": "978-1-4503-1003-1/11/10"
+    }
+  ],
+  "affiliation": "Department of Electrical and Electronic Engineering University of Cagliari Piazza d’Armi, 09123, Cagliari, Italy"
+}

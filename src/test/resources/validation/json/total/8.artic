@@ -1,0 +1,24 @@
+{
+  "title": "A Similarity Measure for Motion Stream Segmentation and Recognition *",
+  "authors": [
+    {
+      "name": "Chuanjun Li",
+      "email": "chuanjun@utdallas.edu"
+    },
+    {
+      "name": "B. Prabhakaran",
+      "email": "praba@utdallas.edu"
+    }
+  ],
+  "venues": [
+    {
+	  "name": "MDM/HDD",
+      "publisher": "ACM",
+      "year": "2005",
+	  "date": "August 21",
+	  "location": "Chicago, Illinois, USA",
+      "isbn": "1-59593-216-X"
+    }
+  ],
+  "affiliation": "Department of Computer Science The University of Texas at Dallas, Richardson, TX 75083"
+}

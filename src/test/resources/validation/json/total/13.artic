@@ -1,0 +1,30 @@
+{
+  "title": "Exploring the Role of the Reader in the Activity of Blogging",
+  "authors": [
+    {
+      "name": "Eric Baumer",
+      "email": "ebaumer@ics.uci.edu",
+      "affiliation": "Department of Informatics of California, Irvine, USA"
+    },
+    {
+      "name": "Mark Sueyoshi",
+      "email": "msueyosh@uci.edu",
+      "affiliation": "Int�l Studies / East Asian Cultures U of California, Irvine, USA"
+    },
+    {
+      "name": "Bill Tomlinson",
+      "email": "wmt@uci.edu",
+      "affiliation": "Department of Informatics U of California, Irvine, USA"
+    }
+  ],
+  "venues": [
+    {
+      "name": "CHI",
+      "publisher": "ACM",
+      "date": "April 5�10",
+      "year": "2008",
+      "location": "Florence, Italy",
+      "isbn": "978-1-60558-011-1/08/04"
+    }
+  ]
+}

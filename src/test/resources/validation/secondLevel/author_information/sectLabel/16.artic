@@ -1,0 +1,16 @@
+Suk-Bok 0 0 medium false false false new medium false AUTHOR
+Lee 1 0 few false false false same medium false AUTHOR
+and 2 0 few false false false same medium false AUTHOR
+Yoon-Hwa 3 0 medium false false false same medium false AUTHOR
+Choi 4 0 few false false false same medium false AUTHOR
+Department 0 0 many false true false new normal false AFFILIATION
+of 1 0 few false false false same normal false AFFILIATION
+Computer 2 0 medium false true false same normal false AFFILIATION
+Engineering 3 0 many false false false same normal false AFFILIATION
+Hongik 0 1 medium false false false same normal false AFFILIATION
+University 1 1 many false true false same normal false AFFILIATION
+121-791 0 2 medium false false false same normal false AFFILIATION
+Seoul, 1 2 medium false false false same normal false AFFILIATION
+Korea 2 2 medium false false false same normal false AFFILIATION
+{sblee, 0 0 medium false false false new medium true EMAIL
+yhchoi}@cs.hongik.ac.kr 1 0 many true false false same medium false EMAIL

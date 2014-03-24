@@ -1,0 +1,33 @@
+{
+  "title": "Downlink Packets Scheduling in Enterprise WLAN",
+  "authors": [
+    {
+      "name": "Dong Zhao",
+      "email": "Email:  dongzhao@nudt.edu.cn"
+    },
+    {
+      "name": "Ming Zhu",
+      "email": "zhuming@nudt.edu.cn"
+    },
+    {
+      "name": "Ming Xu",
+      "email": "xuming@nudt.edu.cn"
+    },
+    {
+      "name": "Jiannong Cao",
+      "email": "csjcao@comp.polyu.edu.hk"
+    }
+  ],
+  "venues": [
+    {
+      "name": "IEEE Wireless Communications and Networking Conference (WCNC): NETWORKS",
+      "year": "2013"
+    },
+    {
+      "publisher": "IEEE",
+      "year": "2013",
+      "isbn": "978-1-4673-5939-9/13"
+    }
+  ],
+  "affiliation": "* School of Computer, National University of Defense Techonology, Changsha, China † Department of Computing, The Hong Kong Polytechnic University, Hongkong"
+}

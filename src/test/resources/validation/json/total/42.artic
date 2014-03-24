@@ -1,0 +1,43 @@
+{
+  "title": "Generating Event Storylines from Microblogs",
+  "authors": [
+    {
+      "name": "Chen Lin",
+      "email": "chenlin@xmu.edu.cn",
+	  "affiliation": "Xiamen University Shanghai Key Laboratory of Intelligent Information Processing Xiamen, China"
+    },
+    {
+      "name": "Chun Lin",
+      "email": "chunlin@stu.xmu.edu.cn",
+	  "affiliation": "Xiamen University Xiamen, China"
+    },
+    {
+      "name": "Jingxuan Li",
+      "email": "jli003@cs.fiu.edu",
+	  "affiliation": "Florida International University Miami, FL, U.S.A."
+    },
+	{
+      "name": "Dingding Wang",
+      "email": "dwang003@cs.fiu.edu",
+	  "affiliation": "Florida International University Miami, FL, U.S.A."
+    },
+	{
+      "name": "Yang Chen",
+      "email": "ychen@cs.duke.edu",
+	  "affiliation": "Duke University Durham NC, U.S.A"
+    },
+	{
+      "name": "Tao Li",
+      "email": "taoli@cs.fiu.edu",
+	  "affiliation": "Florida International University Miami, FL, U.S.A."
+    }
+  ],
+  "venues": [{
+    "name": "CIKM’12",
+    "publisher": "ACM",
+    "date": "October 29–November 2",
+    "year": "2012",
+    "location": "Maui, HI, USA.",
+    "isbn": "978-1-4503-1156-4/12/10"
+  }]
+}
