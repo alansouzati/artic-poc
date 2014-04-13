@@ -8,7 +8,6 @@ dist
 /.idea_modules
 /.classpath
 /.project
-pom.xml
 /*template.crf
 /*model.crf
 /conferences.txt
