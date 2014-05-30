@@ -9,12 +9,8 @@
         <meta name="description" content=""/>
         <meta name="author" content="Alan Souza"/>
 
-        <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic"
-              rel="stylesheet"/>
-
         <link href="public/css/main.css" rel="stylesheet"/>
 
-        <script src="public/js/prettify/run_prettify.js"></script>
     </head>
 
     <body class="impress-not-supported">
@@ -22,12 +18,63 @@
         <div id="impress">
 
             <div id="title" class="step slide" data-x="0" data-y="0">
-                <h1>ARTIC: Metadata Extraction using CRF</h1>
+                <div class="header" style="margin-top: 20px;">
+                    <p>Universidade Federal do Rio Grande do Sul</p>
+                    <p>Instituto de Informática</p>
+                    <p>Programa de Pós-Graduação em Computação</p>
+                </div>
+                <h1>ARTIC: Metadata extraction from Scientific Documents in PDF</h1>
 
-                <div class="me">Alan Souza</div>
-                <div class="twitter">apsouza@ufrgs.br</div>
+                <div class="me">Alan Souza, Viviane Moreira, Carlos Heuser</div>
+                <div class="email">{apsouza,viviane,heuser}@inf.ufrgs.br</div>
+
+                <div class="logo">
+                    <img src="public/img/inf_logo.png" style="float: left;"/>
+                    <img src="public/img/ufrgs_logo.png" style="float: right; max-width: 115px"/>
+                </div>
             </div>
 
+            <div id="roadmap" class="step slide" data-x="0" data-y="1000">
+                <h2>Roadmap</h2>
+                <ol>
+                    <li>Introduction</li>
+                    <li>Contributions</li>
+                    <li>Related Work</li>
+                    <li>ARTIC</li>
+                    <li>Experiments</li>
+                    <li>Conclusions</li>
+                </ol>
+            </div>
+
+            <div id="introduction_phase1" class="step slide" data-x="0" data-y="2000">
+                <h2>Introduction</h2>
+                <ol>
+                    <li>Metadata to describe the document</li>
+                    <li>Metadata is important for Information Retrieval Systems</li>
+                    <li>PDF allows the definition of metadata</li>
+                    <li>Major problem: lack of metadata definition by the writers</li>
+                </ol>
+            </div>
+
+            <div id="possible-solution" class="step" data-x="2500" data-y="3000" data-scale="5">
+                <code class="class">Solution??</code>
+                <div style="width: 100%; text-align: center">
+                    <img src="public/img/solution.png" style="max-width: 110px; vertical-align: middle"/>
+                </div>
+
+            </div>
+
+            <div id="introduction_phase2" class="step slide" data-x="5500" data-y="3300">
+                <h2>Introduction</h2>
+                <ol>
+                    <li>Solution: automatic identification of metadata information</li>
+                    <li>Existing Research divided into:</li>
+                    <p style="margin-left: 50px; padding: 5px;">Template matching</p>
+                    <p style="margin-left: 50px; padding: 5px;">Web-base lookup</p>
+                    <p style="margin-left: 50px; padding: 5px;">Machine Learning</p>
+                </ol>
+
+            </div>
         </div>
 
         <script src="public/js/impress/impress.js"></script>
