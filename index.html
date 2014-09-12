@@ -82,13 +82,6 @@
                 <ol>
                     <li>Build an apriori structure (template) for each metadata</li>
                     <li>Post-process to get the matching elements</li>
-                    <li>Example:</li>
-                    <p style="margin-left: 50px; padding: 5px;">
-                        Title template would be the biggest font with bold style on the first page
-                    </p>
-                    <p style="margin-left: 50px; padding: 5px;">
-                        Post-process to load the lines in the first page of the article with biggest font size and bold style
-                    </p>
                     <li>Huang et al. (2006), Flynn et al. (2007)</li>
                 </ol>
 
@@ -105,40 +98,25 @@
             </div>
 
             <div id="relatedWork_phase3" class="step slide" data-x="5500" data-y="6300">
-                <h2>Related Work – HMM</h2>
+                <h2>Related Work – ML</h2>
 
                 <ol class="small">
                     <li>Machine Learning technique used to solve sequence labeling problems</li>
                     <li>Metadata extraction as an instance of the sequence labeling problem</li>
-                    <li>HMM: Label each word and/or line with a class, such as: title, author</li>
-                    <li>Build the model using a training set</li>
-                    <li>Test the model using a test set</li>
-                    <li>Seymore et al. (1999), Yin et al. (2004)</li>
+                    <li>Seymore et al. (1999), Yin et al. (2004), Luong et al. (2010)</li>
                 </ol>
             </div>
 
             <div id="relatedWork_phase4" class="step slide" data-x="5500" data-y="7300">
-                <h2>Related Work – CRF</h2>
-
-                <ol>
-                    <li>HMM requires the enumeration of all possible observations</li>
-                    <li>HMM assumes that the observations are independent</li>
-                    <li>CRF overcomes HMM limitations for sequence labeling problems</li>
-                </ol>
-            </div>
-
-            <div id="crf_luong_phase1" class="step slide" data-x="7000" data-y="7300">
                 <h2>CRF – Luong et al. (2010)</h2>
 
                 <ol>
                     <li>Single-layer CRF to identify metadata</li>
                     <li>Build the features to allow the CRF to identify the classes (metadata)</li>
-                    <li>Used OmniPage OCR tool to extract the PDF features</li>
                 </ol>
-
             </div>
 
-            <div id="crf_luong_phase2" class="step slide" data-x="8500" data-y="7300">
+            <div id="crf_luong_phase1" class="step slide" data-x="7000" data-y="7300">
                 <h2>CRF – Luong et al. (2010)</h2>
                 <ol>
 
@@ -153,9 +131,10 @@
                         <strong>Paragraph</strong>: to detect blocks of text lines belonging to the same paragraph
                     </p>
                 </ol>
+
             </div>
 
-            <div id="proposed-solution" class="step slide-link" data-x="10000" data-y="8300" data-scale="3">
+            <div id="proposed-solution" class="step slide-link" data-x="9000" data-y="8300" data-scale="3">
                 <code class="package">br.ufrgs</code>
                 <code class="class" style="font-size: 40px; margin-top: 40px;">var artic = new ProposedSolution();</code>
             </div>
@@ -198,7 +177,7 @@
 
                 <ol class="small">
                     <li><strong>Header:</strong> information about the conference</li>
-                    <li><strong>Title:</strong> title of the paper =D</li>
+                    <li><strong>Title:</strong> title of the paper </li>
                     <li><strong>Author Information:</strong> author name, emails, and affiliations</li>
                     <li><strong>Body:</strong> non-relevant data for metadata extraction</li>
                     <li><strong>Footnote:</strong> information about the conference, and eventually some emails</li>
@@ -346,8 +325,8 @@
                 <h2>Conclusion</h2>
                 <ol class="small">
                     <li>OCR as the most effective way to extract rich text information</li>
-                    <li>OmniPage runs only on Windows :/</li>
-                    <li>If we use OCR, we support what they support, not only PDF =D</li>
+                    <li>OmniPage runs only on Windows</li>
+                    <li>If we use OCR, we support what they support, not only PDF </li>
                     <li>100 papers still small compared to the size of papers available online</li>
                     <li><strong>Possible Future Work:</strong> evaluate tools to minimize manual annotation</li>
                 </ol>
@@ -368,7 +347,6 @@
                     <li>Artic presented a relative gain of 6.92% compared to SectLabel.</li>
                     <li>The post-processing algorithms represented a relative loss of 5.34% compared to Artic classification step.</li>
                     <li>Artic has been released as an open-source project at https://github.com/alansouzati/artic-poc.</li>
-                    <li>A paper has been submitted to DocEng 2014 conference which will be held in Fort Collins, USA and has a Qualis of B1</li>
                 </ol>
             </div>
 
