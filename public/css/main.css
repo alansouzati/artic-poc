@@ -174,6 +174,10 @@ a.manifesto {
     margin: 20px 120px;
 }
 
+.slide ol.bullet {
+    list-style-type: circle;
+}
+
 .slide ol.small li {
     font-size: 30px;
 }

@@ -36,7 +36,7 @@
 
             <div id="roadmap" class="step slide" data-x="0" data-y="1000">
                 <h2>Roadmap</h2>
-                <ol>
+                <ol class="bullet">
                     <li>Introduction</li>
                     <li>Related Work</li>
                     <li>ARTIC</li>
@@ -47,8 +47,8 @@
 
             <div id="introduction_phase1" class="step slide" data-x="0" data-y="2000">
                 <h2>Introduction</h2>
-                <ol>
-                    <li>Metadata to describe the document</li>
+                <ol class="bullet">
+                    <li>Metadata is used to describe the document</li>
                     <p style="margin-left: 50px; padding: 5px;">Sample: Title, Author, Conference...</p>
                     <li>Metadata is important for Information Retrieval Systems</li>
                     <li>PDF allows the definition of metadata</li>
@@ -66,11 +66,11 @@
 
             <div id="introduction_phase2" class="step slide" data-x="5500" data-y="3300">
                 <h2>Introduction</h2>
-                <ol>
+                <ol class="bullet">
                     <li>Solution: identify metadata information automatically</li>
                     <li>Existing Research divided into:</li>
                     <p style="margin-left: 50px; padding: 5px;">Template matching</p>
-                    <p style="margin-left: 50px; padding: 5px;">Web-base lookup</p>
+                    <p style="margin-left: 50px; padding: 5px;">Web-based lookup</p>
                     <p style="margin-left: 50px; padding: 5px;">Machine Learning</p>
                 </ol>
 
@@ -79,7 +79,7 @@
             <div id="relatedWork_phase1" class="step slide" data-x="5500" data-y="4300">
                 <h2>Related Work: Template Matching</h2>
 
-                <ol>
+                <ol class="bullet">
                     <li>Build an apriori structure (template) for each metadata</li>
                     <li>Post-process to get the matching elements</li>
                     <li>Huang et al. (2006), Flynn et al. (2007)</li>
@@ -88,9 +88,9 @@
             </div>
 
             <div id="relatedWork_phase2" class="step slide" data-x="5500" data-y="5300">
-                <h2>Related Work – Web-base lookup</h2>
+                <h2>Related Work – Web-based lookup</h2>
 
-                <ol>
+                <ol class="bullet">
                     <li>Identify the smallest unit of information from the document</li>
                     <li>Retrieve the complete information from a universal database (Google Scholar, IEEE, ACM)</li>
                     <li>Aumüller (2009)</li>
@@ -100,7 +100,7 @@
             <div id="relatedWork_phase3" class="step slide" data-x="5500" data-y="6300">
                 <h2>Related Work – ML</h2>
 
-                <ol class="small">
+                <ol class="bullet">
                     <li>Machine Learning technique used to solve sequence labeling problems</li>
                     <li>Metadata extraction as an instance of the sequence labeling problem</li>
                     <li>Seymore et al. (1999), Yin et al. (2004), Luong et al. (2010)</li>
@@ -110,7 +110,7 @@
             <div id="relatedWork_phase4" class="step slide" data-x="5500" data-y="7300">
                 <h2>CRF – Luong et al. (2010)</h2>
 
-                <ol>
+                <ol class="bullet">
                     <li>Single-layer CRF to identify metadata</li>
                     <li>Build the features to allow the CRF to identify the classes (metadata)</li>
                 </ol>
@@ -118,7 +118,7 @@
 
             <div id="crf_luong_phase1" class="step slide" data-x="7000" data-y="7300">
                 <h2>CRF – Luong et al. (2010)</h2>
-                <ol>
+                <ol class="bullet">
 
                     <li>Some features:</li>
                     <p style="margin-left: 50px; padding: 5px;">
@@ -150,7 +150,7 @@
 
             <div id="artic_phase2" class="step slide" data-x="10000" data-y="10300">
                 <h2>ARTIC: Overview</h2>
-                <ol >
+                <ol class="bullet">
                     <li>Identifies larger components: <span style="font-style: italic">Header, Title, Author Information, Body, and Footnote</span></li>
                     <li>Second-layer for Header, Author Information, and Footnote</li>
                 </ol>
@@ -158,7 +158,7 @@
 
             <div id="artic_phase3" class="step slide" data-x="10000" data-y="11300">
                 <h2>ARTIC: Overview</h2>
-                <ol class="small">
+                <ol class="small bullet">
                     <li>Definition of the features for the layers</li>
                     <li>Used CRF++ as a framework: feature as columns</li>
                     <li>Last column is the CLASS</li>
@@ -175,7 +175,7 @@
             <div id="artic_phase5" class="step slide" data-x="10000" data-y="13300">
                 <h2>ARTIC: First-level</h2>
 
-                <ol class="small">
+                <ol class="small bullet">
                     <li><strong>Header:</strong> information about the conference</li>
                     <li><strong>Title:</strong> title of the paper </li>
                     <li><strong>Author Information:</strong> author name, emails, and affiliations</li>
@@ -191,7 +191,7 @@
             <div id="artic_phase6" class="step slide" data-x="10000" data-y="14300">
                 <h2>ARTIC: Second-level</h2>
                 <h4 class="heading"><strong>Header CRF:</strong> explores the <strong>words</strong> of the lines with Header class (first-level).</h4>
-                <ol class="small">
+                <ol class="small bullet">
                     <li><strong>Conference Name:</strong> conference/journal name that the paper has been published</li>
                     <li><strong>Conference Year:</strong> year when the conference happened</li>
                     <li><strong>Conference Date:</strong> date when the conference happened</li>
@@ -205,7 +205,7 @@
             <div id="artic_phase7" class="step slide" data-x="11500" data-y="14300">
                 <h2>ARTIC: Second-level</h2>
                 <h4 class="heading"><strong>Author Information CRF:</strong> explores the <strong>words</strong> of the lines with Author Information class (first-level).</h4>
-                <ol class="small">
+                <ol class="small bullet">
                     <li><strong>Author Name:</strong> author name (words without relationship)</li>
                     <li><strong>Affiliation:</strong> author's affiliation (words without relationship)</li>
                     <li><strong>Email:</strong> author's email (words without relationship)</li>
@@ -217,7 +217,7 @@
             <div id="artic_phase8" class="step slide" data-x="13000" data-y="14300">
                 <h2>ARTIC: Second-level</h2>
                 <h4 class="heading"><strong>Footnote CRF:</strong> explores the <strong>words</strong> of the lines with Footnote class (first-level).</h4>
-                <ol class="small">
+                <ol class="small bullet">
                     <li>Conference Name, Conference Year, Conference Date, Conference Location, Publisher, Email, Other</li>
                     <li><strong>ISBN:</strong> ISBN number (e.g.: 978-1-60558-01/08/04)</li>
                     <li>Some features: Word Content, Possible Email, and ISBN</li>
@@ -267,7 +267,7 @@
 
             <div id="experiments_phase2" class="step slide" data-x="19000" data-y="18300">
                 <h2>Experiments: Setup</h2>
-                <ol class="small">
+                <ol class="small bullet">
                     <li>SectLabel (Luong et al.) as the baseline</li>
                     <li>Dataset: 100 papers from IEEE, ACM, Elsevier, Springer</li>
                     <li>100 papers to include 40 papers from SectLabel</li>
@@ -282,7 +282,7 @@
                 <h2>Experiments: Setup</h2>
 
                 <img src="public/img/precision.png" style="max-width: 500px; vertical-align: middle"/>
-                <ol class="small">
+                <ol class="small bullet">
                     <li><strong>Precision</strong>: from what the method classified as Title, what was actually Title</li>
                     <br>
                     <li><strong>Recall</strong>: from what should have been assigned as Title, how many were classified as such by the method</li>
@@ -323,7 +323,7 @@
 
             <div id="conclusion_phase1" class="step slide" data-x="22000" data-y="24300">
                 <h2>Conclusion</h2>
-                <ol class="small">
+                <ol class="small bullet">
                     <li>OCR as the most effective way to extract rich text information</li>
                     <li>OmniPage runs only on Windows</li>
                     <li>If we use OCR, we support what they support, not only PDF </li>
@@ -334,7 +334,7 @@
 
             <div id="conclusion_phase2" class="step slide" data-x="23500" data-y="24300">
                 <h2>Conclusion</h2>
-                <ol class="small">
+                <ol class="small bullet">
                     <li>No machine learning in the Post-Processing algorithms</li>
                     <li>DO et al. (2013) presents a method to match authors and affiliations using Support Vector Machine (SVM)</li>
                     <li><strong>Possible Future Work:</strong> evaluate the use of ML techniques also at the post-processing level</li>
@@ -343,7 +343,7 @@
 
             <div id="conclusion_phase3" class="step slide" data-x="25000" data-y="24300">
                 <h2>Conclusion</h2>
-                <ol class="small">
+                <ol class="small bullet">
                     <li>Artic presented a relative gain of 6.92% compared to SectLabel.</li>
                     <li>The post-processing algorithms represented a relative loss of 5.34% compared to Artic classification step.</li>
                     <li>Artic has been released as an open-source project at https://github.com/alansouzati/artic-poc.</li>
