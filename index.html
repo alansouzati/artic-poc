@@ -101,7 +101,7 @@
                 <h2>Related Work – ML</h2>
 
                 <ol class="bullet">
-                    <li>Machine Learning technique used to solve sequence labeling problems</li>
+                    <li>Machine Learning technique can used to solve sequence labeling problems</li>
                     <li>Metadata extraction as an instance of the sequence labeling problem</li>
                     <li>Seymore et al. (1999), Yin et al. (2004), Luong et al. (2010)</li>
                 </ol>
@@ -111,13 +111,20 @@
                 <h2>CRF – Luong et al. (2010)</h2>
 
                 <ol class="bullet">
+                    <li>SectLabel as the name of the method</li>
                     <li>Single-layer CRF to identify metadata</li>
                     <li>Build the features to allow the CRF to identify the classes (metadata)</li>
+                    <li>Assumption: one metadata per line (not always true)</li>
                 </ol>
             </div>
 
             <div id="crf_luong_phase1" class="step slide" data-x="7000" data-y="7300">
-                <h2>CRF – Luong et al. (2010)</h2>
+                <h2>SectLabel</h2>
+                <img src="public/img/sectlabel_issue.png" style="float: left; margin-left: 50px; margin-top: 60px; max-width: 800px;"/>
+            </div>
+
+            <div id="crf_luong_phase2" class="step slide" data-x="8500" data-y="7300">
+                <h2>SelectLabel</h2>
                 <ol class="bullet">
 
                     <li>Some features:</li>
@@ -131,7 +138,6 @@
                         <strong>Paragraph</strong>: to detect blocks of text lines belonging to the same paragraph
                     </p>
                 </ol>
-
             </div>
 
             <div id="proposed-solution" class="step slide-link" data-x="9000" data-y="8300" data-scale="3">
@@ -156,8 +162,18 @@
                 </ol>
             </div>
 
+            <div id="artic_phase21" class="step slide" data-x="11500" data-y="10300">
+                <h2>ARTIC: First Layer</h2>
+                <img src="public/img/artic_sample.png" style="float: left; margin-left: 250px; margin-top: 10px; max-width: 800px; max-height: 550px"/>
+            </div>
+
+            <div id="artic_phase22" class="step slide" data-x="13000" data-y="10300">
+                <h2>ARTIC: Footnote</h2>
+                <img src="public/img/artic_footnote.png" style="float: left; margin-left: 50px; margin-top: 60px; max-width: 800px;"/>
+            </div>
+
             <div id="artic_phase3" class="step slide" data-x="10000" data-y="11300">
-                <h2>ARTIC: Overview</h2>
+                <h2>ARTIC: CRF++</h2>
                 <ol class="small bullet">
                     <li>Definition of the features for the layers</li>
                     <li>Used CRF++ as a framework: feature as columns</li>
@@ -169,7 +185,8 @@
 
             <div id="artic_phase4" class="step slide" data-x="10000" data-y="12300">
                 <h2>ARTIC: Overview</h2>
-                <img src="public/img/artic_overview.png" style="float: left; margin-left: 50px; margin-top: 90px; max-width: 800px;"/>
+                <h4 class="heading">Execution Flow</h4>
+                <img src="public/img/artic_overview.png" style="float: left; margin-left: 50px; margin-top: 40px; max-width: 800px;"/>
             </div>
 
             <div id="artic_phase5" class="step slide" data-x="10000" data-y="13300">
@@ -315,14 +332,14 @@
             </div>
 
             <div id="conclusion" class="step slide-link" data-x="20500" data-y="23300" data-scale="3">
-                <code class="class" style="font-size: 40px; margin-top: 40px;">Conclusions</code>
+                <code class="class" style="font-size: 40px; margin-top: 40px;">Discussions + Conclusions</code>
                 <div style="width: 100%; text-align: center">
                     <img src="public/img/conclusion.jpg" style="max-width: 110px; vertical-align: middle"/>
                 </div>
             </div>
 
             <div id="conclusion_phase1" class="step slide" data-x="22000" data-y="24300">
-                <h2>Conclusion</h2>
+                <h2>Discussion</h2>
                 <ol class="small bullet">
                     <li>OCR as the most effective way to extract rich text information</li>
                     <li>OmniPage runs only on Windows</li>
@@ -333,7 +350,7 @@
             </div>
 
             <div id="conclusion_phase2" class="step slide" data-x="23500" data-y="24300">
-                <h2>Conclusion</h2>
+                <h2>Discussion</h2>
                 <ol class="small bullet">
                     <li>No machine learning in the Post-Processing algorithms</li>
                     <li>DO et al. (2013) presents a method to match authors and affiliations using Support Vector Machine (SVM)</li>
